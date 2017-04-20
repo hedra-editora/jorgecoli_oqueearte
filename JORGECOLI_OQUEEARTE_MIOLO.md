@@ -1,0 +1,2288 @@
+% dedicatória
+Em memória de meu irmão Vicente
+e para meu afilhado Lúcio.
+
+# Introdução
+
+Dizer o que seja a arte é coisa difícil. Um sem-número de tratados de estética debruçou-se sobre o
+problema, procurando situá-lo, procurando definir o
+conceito. Mas, se buscamos uma resposta clara e definitiva, decepcionamo-nos: elas são divergentes, contraditórias, além de frequentemente se pretenderem
+exclusivas, propondo-se como solução única. Desse
+ponto de vista, a empresa é desencorajadora: o esteta
+francês Etienne Gilson, num livro notável, *Introdução às artes do belo*, diz que “não se pode ler uma história
+das filosofias da arte sem se sentir um desejo irresistível
+de ir fazer outra coisa”, tantas e tão diferentes são as
+concepções sobre a natureza da arte.
+
+Entretanto, se pedirmos a qualquer pessoa que
+possua um mínimo contato com a cultura para nos
+citar alguns exemplos de obras de arte ou de artistas,
+ficaremos certamente satisfeitos. Todos sabemos que
+a Mona Lisa, que a Nona sinfonia de Beethoven, que
+a Divina comédia, que Guernica de Picasso ou o Davi
+de Michelangelo são, indiscutivelmente, obras de arte.
+Assim, mesmo sem possuirmos uma definição clara e lógica do conceito, somos capazes de identificar algumas produções da cultura em que vivemos como
+“arte” (a palavra cultura é empregada não no sentido
+de um aprimoramento individual do espírito, mas do
+“conjunto complexo dos padrões de comportamento,
+das crenças, instituições e outros valores espirituais e
+materiais transmitidos coletivamente e característicos
+de uma sociedade”, para darmos a palavra ao Novo Aurélio). Além disso, a nossa atitude diante da ideia “arte”
+é de admiração: sabemos que Leonardo ou Dante são
+gênios e, de antemão, diante deles, predispomo-nos a
+tirar o chapéu.
+
+É possível dizer, então, que arte são certas manifestações da atividade humana diante das quais nosso sentimento é admirativo, isto é: nossa cultura possui
+uma noção que denomina solidamente algumas de suas
+atividades e as privilegia. Portanto, podemos ficar tranquilos: se não conseguimos saber o que a arte é, pelo
+menos sabemos quais coisas correspondem a essa ideia
+e como devemos nos comportar diante delas.
+
+Infelizmente, esta tranquilidade não dura se quisermos escapar ao superficial e escavar um pouco mais o problema. O *Davi* de Michelangelo é arte, e não se
+discute. Entretanto, eu abro um livro consagrado a um
+artista célebre do nosso século, Marcel Duchamp, e vejo
+entre suas obras, conservado em museu, um aparelho
+sanitário de louça, absolutamente idêntico aos que
+existem em todos os mictórios masculinos do mundo
+inteiro. Ora, esse objeto não corresponde exatamente
+à ideia que faço da arte.
+
+Para me distrair um pouco, discretamente tomo
+emprestado do meu irmãozinho uma revista em quadrinhos de terror. Mais tarde, visito um amigo intelectual
+que possui magnífica biblioteca, e nela encontro uma
+suntuosa edição italiana consagrada a Stan Lee, reproduzindo a mesma história em quadrinhos que eu havia
+lido há pouco num gibizinho barato. Meu amigo me ensina que Stan Lee é um grande artista e, por sinal, a introdução, elaborada por um professor da Universidade
+de Milão, confirma seus dizeres. Eu nem imaginava que
+uma história em quadrinhos pudesse ter autor, quanto
+mais que esse autor pudesse ser chamado artista e sua
+produção, obra de arte.
+
+Coisa parecida acontece com um cartaz publicitário observado na rua, cujo desenho original descubro
+em exposição temporária de um museu. Em certa mostra de arte popular, deparo com uma colherona de pau,
+tal e qual minha avó há muito tempo usava para fazer
+sabão de cinza numa fazenda do interior. Um amigo
+meu, professor de literatura francesa, entusiasma-se
+pelas memórias de Charles de Gaulle e me garante que
+o célebre estadista é também um grande escritor. A
+arqueologia, que desenterrou tantas obras de arte extraordinárias, trouxe igualmente à luz inúmeros objetos
+que são testemunhos históricos: dentre eles, quais são,
+quais não são obras de arte?
+
+Essas situações mostram-nos assim que, se a
+arte é noção sólida e privilegiada, ela possui também
+limites imprecisos. E a questão que há pouco propusemos – como saber o que é ou não obra de arte – de novo se impõe.
+
+Já vimos que responder com uma definição que
+parte da “natureza” da arte é tarefa vã. Mas, se não
+podemos encontrar critérios a partir do interior mesmo
+da noção de obra de arte, talvez possamos descobri-los
+fora dela. Não existiriam em nossa cultura forças que
+determinem a atribuição do qualificativo *arte* a um objeto? E aí, tudo se ilumina: como sei que Stan Lee é um
+artista? Porque o professor da Universidade de Milão o
+afirma. Como sei que a colher de pau de minha avó é
+um objeto de arte? Porque a encontrei num museu.
+Para decidir o que é ou não arte, nossa cultura
+possui instrumentos específicos. Um deles, essencial, é
+o discurso sobre o objeto artístico, ao qual reconhecemos competência e autoridade. Esse discurso é o que
+proferem o crítico, o historiador da arte, o perito, o
+conservador de museu. São eles que conferem o estatuto de arte a um objeto. Nossa cultura também prevê
+locais específicos onde a arte pode manifestar-se, quer
+dizer, locais que também dão estatuto de arte a um ob-
+jeto. Num museu, numa galeria, sei de antemão que
+encontrarei obras de arte; num cinema “de arte”, filmes que escapam à “banalidade” dos circuitos normais;
+numa sala de concerto, música “erudita” etc. Esses locais garantem-me assim o rótulo “arte” às coisas que
+apresentam, enobrecendo-as. No caso da arquitetura,
+como é evidentemente impossível transportar uma casa
+ou uma igreja para um museu, possuímos instituições
+legais que protegem as construções “artísticas”. Quando deparamos com um edifício tombado pelo Serviço
+do Patrimônio Histórico e Artístico Nacional podemos
+respirar aliviados: não há sombra de dúvida, estamos
+diante de uma obra de arte.
+
+Desse modo, para gáudio meu, posso despreocupar-me, pois nossa cultura prevê instrumentos que
+determinarão, por mim, o que é ou não arte. Para evitar ilusões, devo prevenir que, como veremos adiante,
+a situação não é assim tão rósea. Mas, por ora, o importante é termos em mente que o estatuto da arte
+não parte de uma definição abstrata, lógica ou teórica,
+do conceito, mas de atribuições feitas por instrumentos
+de nossa cultura, dignificando os objetos sobre os quais
+ela recai.
+
+
+#A instauração da arte e os modos do discurso
+
+## A hierarquia dos objetos
+
+A arte instala-se em nosso mundo por meio do
+aparato cultural que envolve os objetos: o discurso,
+o local, as atitudes de admiração etc. Veremos mais
+adiante como esses instrumentos e a própria noção de
+arte são específicos de nossa cultura. Por ora, limitemos-nos a constatar que eles permitem a manifestação
+do objeto artístico ou, mais ainda, dão ao objeto o estatuto de arte: a galeria permite que o pintor exponha
+seus quadros (isto é, que “manifeste” sua arte) e, além
+disso, determina, escolhendo um tipo de objeto dentre
+os inúmeros que nos rodeiam, que ele seja “artístico”.
+
+Mas esses instrumentos não se limitam a traçar
+uma linha divisória separando os objetos artísticos e os
+não artísticos; não se contentam em criar uma “reser-
+va” de arte. Eles intervêm, por assim dizer, na disposição relativa dos objetos artísticos; pretendem ensinar-nos que tal obra tem mais interesse que outra, que tal
+livro ou filme é melhor que outro, que tal sinfonia é mais
+admirável que outra: isto é, criam uma hierarquia dos
+objetos artísticos. Não é preciso muito conhecimento
+para sabermos que Dante é “maior” ou “superior” a
+Casimiro de Abreu, que Benedito Calixto é “inferior”
+a Leonardo, que Bach é o maior de todos os músicos,
+que o Partenon é a mais perfeita obra arquitetural, pois
+trata-se de julgamentos correntes, que parecem óbvios ou tácitos.
+
+Isso não quer dizer que tais objetos sejam mais
+“arte” que outros. Certo crítico poderá afirmar que
+Benedito Calixto não produziu obras de arte, mas estará empregando apenas uma hipérbole. Sabemos que
+Calixto foi pintor, que produziu quadros e painéis, que
+exerceu uma atividade artística. Portanto, quando o
+crítico nega o caráter artístico de sua produção, está
+dizendo que, segundo seus critérios de julgamento, a
+qualidade da obra de Calixto não atinge um nível suficientemente elevado para que possa considerá-la uma
+obra de arte. Mas, tomando duas obras tidas como
+artísticas, o crítico pode afirmar que, segundo certos
+critérios (que podem ser explícitos ou não), tal obra
+é mais bem realizada, ou mais rica, ou mais profunda
+que outra.
+
+A crítica, portanto, tem o poder não só de atribuir o estatuto de arte a um objeto, mas de o classificar
+numa ordem de excelências, segundo critérios próprios.
+Existe mesmo uma noção em nossa cultura que designa a posição máxima de uma obra de arte nessa ordem: o conceito de obra-prima.
+
+Essa noção é antiga, e ela não possuía exatamente o sentido que assumiu com o tempo. Os dicionários nos dirão que obra-prima é a obra perfeita,
+a obra capital, a produção mais alta de um autor. Se
+consideramos que *Os lusíadas* são uma obra perfeita, que a *Ilíada* é uma obra capital, que *O ateneu* é a
+melhor obra de Raul Pompéia, diremos que nos três
+casos estamos diante de obras-primas da literatura.
+Por razões ligeiramente diferentes: *Os lusíadas* podem não ser essenciais, por exemplo, para a cultura
+de um americano, na *Ilíada* talvez encontremos irregularidades de construção, dizemos que *O ateneu* é a
+obra-prima de *um autor*, Pompéia; mas nos três casos
+estamos diante de obras de qualidade que julgamos
+excepcional em relação a outras.
+
+No passado, entretanto, a obra-prima era aquela
+que coroava o aprendizado de um ofício, que testemunhava a competência de seu autor. Não se tratava de
+uma realização forçosamente inovadora, original, e era
+com frequência um produto utilitário, saído das mãos
+de um carpinteiro, ourives, tecelão. Os ofícios, exerci-
+dos em ateliês (isso acontece aproximadamente a partir
+do século XIV), constituíam um sistema não apenas de
+produção e de distribuição de objetos, mas também de
+ensino. O ateliê tinha um mestre, dono o mais das vezes da matéria-prima e dos instrumentos de fabricação,
+que ensinava aos aprendizes. Estes começavam crianças e adquiriam todas as técnicas necessárias ao ofício.
+
+Os ateliês agrupavam-se em corporações que os
+protegiam e estabeleciam regras precisas: por exemplo,
+que o proprietário de um ateliê fosse obrigatoriamente
+um mestre. E, para que o aprendiz se tornasse mestre, devia apresentar em concurso, a outros mestres
+da corporação, uma obra inteiramente de sua autoria,
+que pudesse ser considerada perfeita, demonstrando
+assim um domínio de todas as técnicas necessárias: era
+a obra-prima.
+
+Dessa origem, que se liga a condições de produção específicas, a expressão se generaliza no sentido
+de denominar a melhor obra, o produto mais perfeito
+no campo das artes. São muitas as diferenças, que não
+podemos abordar agora, entre o emprego originário e o
+atual. Ressaltemos uma, que nos interessa: a obra-prima, no passado, era julgada a partir de critérios precisos
+de fabricação, por artesãos que dominavam perfeitamente as técnicas necessárias. Hoje, os profissionais do
+discurso sobre a arte possuem critérios mais diversos e
+menos precisos em seus julgamentos, critérios que não
+são apenas o do saber fazer.
+
+## Os caminhos do discurso
+
+Se um carpinteiro aprecia a qualidade de um móvel, ele o faz a partir de um saber concreto, digamos,
+quase indiscutível. Verificará a qualidade da madeira
+empregada, a sua adequação à forma que se exige dela,
+verá se os elementos que constituem os pés, os braços,
+o encosto de uma cadeira foram bem talhados e ajustados. Admirará uma proeza qualquer de feitura – por
+exemplo, a solidez da cadeira repousando sobre pernas
+delgadas –, a fineza do entalhe e a delicadeza dos ornamentos. No fazer que ele conhece, encontra os critérios para julgar o fazer de outrem.
+
+O crítico, entretanto, não tem recurso à objetividade do puro domínio técnico. Sabemos que a pintura
+de Leonardo, de Watteau ou Prud’hon são “malfeitas”,
+que o material e as técnicas empregados, por desleixo
+ou vontade experimental, não são adequados, que certos pigmentos não poderiam ter entrado em contato
+entre si, que a execução foi apressada e não esperou
+a camada inferior secar para dispor, sobre ela, a camada seguinte, que se abusou do betume nas sombras. E,
+finalmente, que o produto uma vez acabado envelhe-
+ceu mal, escurecendo ou transformando as tonalidades
+originais, destruindo o desenho primitivo. Mas não são
+esses os fatores que interessam ao juízo do crítico. A
+*Santa Ceia* quase em ruína, o *São João Batista* invadido
+pelas sombras não fazem de Leonardo um mau pintor.
+
+O bom conhecimento da perspectiva, da anatomia, da aplicação de luz e sombra são técnicas de um mesmo nível que o manuseio das tintas, pois são aprendidas segundo regras e podem ser julgadas com um forte grau de objetividade. Mas elas são um meio entre
+outros para a construção de um quadro e não são, nem
+podem ser, uma exigência absoluta. Ninguém pensaria
+em condenar Ingres pelo seu desdém pela anatomia,
+nem Uccello por sua perspectiva pouco ortodoxa, nem
+Botticelli pela ausência de modelado em suas obras. Podemos dizer que certo pintor conhece perfeitamente a
+anatomia, mas com isso estamos elogiando apenas um
+aspecto técnico parcial de sua obra.
+
+Os discursos que determinam o estatuto da arte
+e o valor de um objeto artístico são de outra natureza,
+mais complexa, mais arbitrária que o julgamento puramente técnico. São tantos os fatores em jogo e tão
+diversos que cada discurso pode tomar seu caminho.
+Questão de afinidade entre a cultura do crítico e a do
+artista, de coincidências (ou não) com os problemas
+tratados, de conhecimento mais ou menos profundo da
+questão e mil outros elementos que podem entrar em
+cena para determinar tal ou qual preferência. Dirá um
+que Wagner é compositor desmedido ou de prolixidade
+vazia, outro invocará seu gênio harmônico a serviço de
+uma dramaticidade filosófica etc.
+
+A situação é algo embaraçoso: vimos os fatores
+exteriores instaurando a arte em nossa cultura, vimos
+que eles determinam a hierarquia dos objetos artísticos
+e nos deparamos com divergências de critérios que nos
+deixam confusos. Poderíamos tentar uma saída para o
+impasse buscando uma solução estatística: se não há
+unanimidade, talvez haja maioria. E, com efeito, pelo
+menos em certos casos mais notáveis, essa maioria
+parece manifestar-se com alguma solidez: é raro encontrarmos textos que desqualifiquem Cézanne, por exemplo, Eisenstein, Shakespeare ou Mozart. Eles
+existem, sem dúvida, mas um consenso geral valoriza
+extremamente a obra desses artistas.
+
+Temos de nos desenganar, no entanto. Não somente porque, quando se trata de obras mais polêmicas, que não conquistaram a institucionalidade do
+consenso, as disputas mantêm-se acerbas (qual é o
+interesse de Gounod ou Massenet? Grande, dizem os
+anglo-saxões; nenhum, respondem os franceses; Le
+Brun pode ser um artista admirável ou apenas gerar
+tédio; Blake um doido ou um iluminado genial), mas
+também porque esse consenso não é estável, ele evolui na história.
+
+Sem dúvida, Cézanne é tido hoje em dia como
+um dos maiores nomes da pintura de todos os tempos.
+Porém, não podemos esquecer que o reconhecimento do seu valor foi tardio: enquanto viveu, o consenso
+geral recusou-se a julgá-lo positivamente, e esse também foi o caso de Van Gogh, de Gauguin e dos impressionistas – pintores de uma época em que havia justamente um conflito entre os critérios estabelecidos e a
+obra que eles produziam. Poderíamos pensar que somos hoje mais aptos a perceber o valor deles, que nossa
+sensibilidade é mais aberta a Van Gogh e a Cézanne
+que a do público de seu tempo, e teríamos razão. Seria
+entretanto abusivo acreditar que o nosso juízo de hoje
+determina o reconhecimento definitivo de Cézanne e
+Van Gogh. A crítica, amanhã, poderá nos mostrar que
+estávamos enganados, e que o interesse dessa pintura,
+afinal de contas, não era assim tão grande.
+
+Absurdo? Rafael e Fídias são dois pilares da história da arte. Inúmeras gerações de artistas se referiram a
+eles como mestres. Não obstante, no começo de nosso século foram assimilados a uma arte convencional,
+a modelos de escola, a patronos do “academicismo” e
+viram sua estabilidade de grandes gênios abalada; ao
+“convencionalismo” que representavam preferiu-se
+uma arte mais conforme ao espírito de inovação do
+tempo, um “primitivismo” mais espontâneo: exalta-se,
+por exemplo, Uccello e a escultura arcaica. Foi preci-
+so esperar algum tempo para que, novamente, eles se
+reerguessem como faróis, embora certamente menos
+incontestados do que antes.
+
+Os casos de Guido Reni e do Corrégio são mais
+radicais. Foram pintores de celebridade imensa, indiscutível, de influência decisiva durante séculos, tão admirados quanto Michelangelo, Rafael, Leonardo, e não
+se pode dizer deles que tenham conhecido apenas fama
+passageira. No entanto, hoje sofrem um eclipse brutal.
+Nossa época parece interessar-se tão pouco pela ternura do sublime mestre de Parma ou pelo rigor de Guido, que quantos somos capazes de lembrar sequer um
+de seus quadros? Melhor, a quantos esses nomes dizem
+alguma coisa?
+
+Poderíamos multiplicar os exemplos: sabemos
+que o passado que foi tão severo com os impressionistas mostrou-se profundamente generoso com pintores
+como Meissonier, Gervex, Puvis de Chavannes, Chaplin
+ou Alma Tademma. A morte de Meissonier, por exemplo, causou luto nacional na França. Com o tempo, no entanto, a avaliação crítica inverteu-se e esses pintores, que se opunham aos impressionistas como técnica
+e assunto, deixaram de ser exaltados. A condenação
+da posteridade chegou a tal ponto que se tornou difícil
+ver um quadro deles em museus. Estes, quando possuíam algum, escondiam-no envergonhados nas reservas. Durante muito tempo, essa pintura foi considerada o
+próprio exemplo da não arte, como alguma coisa artisticamente irrecuperável. Ora, há questão de dez ou
+quinze anos, começou a sua reabilitação triunfal. Hoje
+descobrimos nela uma técnica admirável, um imaginário surpreendentemente rico, por vezes um erotismo extravagante e desmedido. E inversamente, começam
+a despontar análises restritivas a Renoir, a Monet.
+
+Em certos casos, são setores inteiros da arte que
+passam por purgatórios do mesmo gênero. As catedrais
+góticas, que tanto admiramos hoje, a escultura, os vitrais e a pintura da Idade Média, foram execradas pelos homens da Renascença e dos séculos seguintes, até
+que os românticos e alguns teóricos do século passado,
+como Viollet le Duc, interessaram-se por eles e demonstraram seu valor. O barroco, o maneirisrno, o *art nouveau*, o neoclassicismo, entre outros grandes movimentos da história da arte, conheceram trajetórias de
+forte oscilação entre o interesse e o desprezo.
+
+São tantas as flutuações no tempo dos vários juí­
+zos sobre as artes, tantos os meandros traçados pelo
+que os italianos chamam de *fortuna crítica*, isto é, pelos
+julgamentos da posteridade, que não sabemos mais a
+que nos ater. Por vezes, urna obra, um autor, parecem
+inabaláveis, como Homero, e eis que um grande nome
+da cultura, como Valéry ou Gide, traduzindo uma corrente de opinião, surge para afirmar que a *Ilíada* é insuportavelmente entediante.
+
+Com esses exemplos, colhidos um pouco ao acaso, já podemos chegar a uma constatação deprimente: a autoridade institucional do discurso competente é
+forte, mas inconstante e contraditória, e não nos permite segurança no interior do universo das artes.
+
+# A busca do rigor
+
+## A ideia de estilo
+
+Os discursos que determinam o estatuto e o objeto das artes não são unânimes nem constantes. Sua segurança enquanto critério de julgamento já pode
+ser, num primeiro tempo, questionada: eles podem ser
+contraditórios tanto na atribuição do estatuto da arte
+quanto na determinação da hierarquia. O fato de que
+certas obras pareçam possuir uma “permanência” no
+tempo não retira o caráter institucional da autoridade
+do discurso: foi ele quem exaltou durante séculos Fídias
+e Rafael, foi ainda ele quem lhes promoveu a crítica.
+
+Além disso, a própria ideia de critério aparece
+como um esquema que perturba nossa aproximação
+da arte. Sabedores de que Calixto é menor do que Leonardo, predispomo-nos sumariamente a exaltar o segundo e a menosprezar o primeiro. Entretanto, a visão
+do litoral paulista que Calixto oferece é insubstituível;
+poética e serena, ela possui uma sensibilidade própria,
+rica e enriquecedora. Entretanto, a afirmação de que a
+*Gioconda* é uma obra-prima serve apenas para consagrá-la, sem que a nossa apreensão da arte – e do mundo – melhore em alguma coisa.
+
+A história da arte e a crítica não se contentam,
+porém, em determinar, com um veredicto sem justificações, a qualidade do objeto artístico. Elas trazem,
+ligados a esse julgamento, o discorrer sobre o objeto,
+o suporte que leva ao julgamento. Ora, a situação de
+divergências não é satisfatória para o próprio discurso.
+Nada mais irritante para sua autoridade que a negação
+por um outro discurso. Surge então o desejo de uma objetividade.
+
+Os discursos sobre as artes parecem, com frequência, ter a nostalgia do rigor científico, a vontade
+de atingir uma objetividade de análise que lhes garanta
+as conclusões. E na história do discurso, na história da
+crítica, na história da história da arte, constantemente
+encontramos esforços para atingir algumas bases sólidas sobre as quais se possa apoiar uma construção rigorosa.
+
+O instrumento primeiro e mais frequente desse
+desejo de rigor é o das categorias de classificações estilísticas. Se conseguirmos definir estilos, no interior dos
+quais encaixarmos a totalidade da produção artística,
+começamos a pisar terreno mais seguro. E a palavra
+sobre as artes tentará determinar essas classificações gerais.
+
+A ideia de estilo está ligada à ideia de recorrência,
+de constantes. Numa obra existe um certo número de
+construções, expressões, sistemas plásticos, literários,
+musicais, que são escolhidos (mas sem que esta noção
+tenha um sentido forçosamente consciente) e empregados pelo artista com certa frequência. A ideia de estilo repousa sobre o princípio de uma inter-relação de
+constantes formais no interior da obra de arte.
+
+Tomemos um filme de Hitchcock, \meph{Psicose}, por
+exemplo. Constatamos nele a valorização dos personagens, sempre presentes, sempre tratados de maneira individualizada; são mais frequentemente um, dois, três,
+do que grupos numerosos. O cineasta filmou-os de perto, mostrando sobretudo os rostos, a parte superior dos corpos. Verificamos também que as paisagens são raras
+e, quando existem, estão dramatizadas e intimamente
+ligadas à ação: uma casa inquietante, um pântano que
+irá tragar um carro. Percebemos que não há momentos
+de contemplação, mas que todas as imagens dependem
+de uma vontade preponderante de narrar.
+
+Esses elementos já são suficientes para detectarmos um estilo próprio ao filme, subordinado à narração,
+sublinhando o comportamento dos personagens. Mas
+podemos aprofundar mais a análise, verificando que
+certos movimentos de câmera, certos tipos de mon-
+tagem, certos efeitos musicais reaparecem com insistência e delineiam com precisão crescente o estilo de *Psicose*.
+
+Depois de *Psicose* vamos ver *Suspeita*. Descobrimos que nele também existem paisagens dramatizadas, personagens vistos de perto, em tomadas próximas, movimentos de câmera que evocam *Psicose*. E, à
+medida que nos pomos em contato com outros filmes
+de Hitchcock, percebemos que certos elementos de
+construção tendem a ser reempregados, por exemplo
+um determinado *travelling* que começa à distância e se
+aproxima lentamente de uma janela, penetrando numa
+casa; um certo modo de localizar um personagem, dominado por um imenso elemento de arquitetura, de
+fotografá-lo como que aprisionado na teia das sombras
+projetadas num interior, ou no cruzamento dos caminhos entre os túmulos de um cemitério, e assim por
+diante. Prestando atenção nos elementos que reaparecem, descobrimos o estilo de Hitchcock. Do mesmo
+modo que podemos descobrir uma coerência estilística diferente em Eisenstein, Jean Renoir ou Humberto Mauro.
+
+Isso é verdadeiro em todas as artes: há o estilo
+de Zola, de José Lins do Rego, de Villa-Lobos e de Mozart, de Portinari ou Pedro Américo. Por vezes, o artista, como acontece com Ingres, mantém um mesmo estilo imutável da primeira à última obra; na maioria dos
+casos, porém, ele transforma, modifica suas constantes
+estilísticas com o correr do tempo: ao ouvir a *Sagração da primavera e Petrushka*, de Stravinsky, sentimos que
+as duas obras têm muita coisa em comum, mas que
+estão bem distantes da *Sinfonia em dó* ou do *Réquiem*
+do mesmo compositor. Assim, um mesmo criador pode
+desenvolver em sua produção tendências estilísticas diferentes que, se se sucedem no tempo, constituem as “fases” distintas do artista.
+
+Estas constantes transcendem as obras. Quando conhecemos suficientemente o estilo de um autor,
+reconhecemos com facilidade sua produção. Não é
+preciso termos ouvido e memorizado todas as composições de Chopin para sabermos que é dele a peça
+desconhecida que escutamos no rádio; não precisamos,
+num museu, ler a etiqueta para descobrirmos que tal
+obra foi pintada por Matisse ou Rembrandt, desde que
+estejamos familiarizados com o estilo desses artistas. O
+estilo pode até levar à constatação da existência de autores sobre os quais ignoramos tudo: são os “mestres”.
+Se um grupo de obras anônimas apresenta muitas afinidades estilísticas, os especialistas criam a hipótese de
+um autor comum. Frequentemente, é um quadro mais
+importante que agrupa, à sua volta, outras obras e que
+dá nome ao autor: assim o mestre da Anunciação de
+Aix, o mestre de Flora. Outras vezes, o mestre é autor
+de um ciclo: assim, o mestre dos “Cassoni Campana”,
+ou o mestre da Capela Velha, que Mário de Andrade
+descobriu em Itu, distinguindo-o do Padre Jesuíno do
+Monte Carmelo. Ou, ainda, o artista possuía uma característica muito precisa em sua obra, como o “mestre
+da candeia”. Assim, as constantes estilísticas permitem
+mesmo a constituição de autores unicamente a partir
+das obras.
+
+Alargando ainda mais o campo do conceito, descobrimos que as diversas épocas constroem uma espécie de pano de fundo estilístico comum às obras, por
+diferentes que sejam. Não existem artistas mais dessemelhantes que Rossini e Beethoven, que David e Goya; há neles, entretanto, alguns elementos comuns que,
+embora difusos, são próprios à sua época e os reúnem.
+Eles “pertencem” à mesma época, e não podemos imaginá-los fora dela: quando vemos uma pintura de Goya e David, mesmo sem conhecer seus autores, sabemos
+que elas não poderiam ter sido feitas nem no começo do século XVlIl, nem no fim do século XIX. Mas é também certo que, nessas mesmas épocas, segundo
+afinidades entre produções de diferentes criadores, é
+possível reagrupá-las sob denominadores particulares:
+David e Canova são neoclássicos, Boucher e Fragonard são rococó.
+
+Nesse esquema simplificado, a ideia é sedutora.
+Mas o problema, bem mais complexo, impede na realidade que as articulações sejam assim tão fáceis. Porque
+a obra de arte não se reduz ao estilo, e porque as classificações estilísticas não têm, muitas vezes, a pureza
+formal que evocamos acima. E também porque, no dis-
+curso sobre a arte, não é raro encontrarem-se referências à ideia de estilo como se fosse suficiente e formal
+o que vem ainda mais complicar as coisas. Tentaremos
+ver as limitações, a utilidade e os empregos abusivos
+dessa noção, misérias e grandezas da noção de estilo.
+
+## Os estilos
+
+Falando de arte, referimo-nos a impressionismo,
+surrealismo, romantismo, rococó, a um estilo cretense,
+helenístico ou egípcio. Na maior parte das vezes, atribuímos a essas palavras um poder excessivo: o de encarnarem uma espécie de essência à qual a obra se refere.
+De que estilo é tal pintor? Enquanto não colamos uma
+etiqueta em cima, não sossegamos: é hiperrealista, é
+abstracionista, é impressionista, é surrealista. Isso nos
+tranquiliza, pois supomos conhecer o essencial sobre a
+obra; supomos saber o que significam as classificações,
+e que a obra corresponde a uma delas.
+
+Essa atitude pode ser pacificadora, mas não é satisfatória. Pois as obras são complexas, e é de sua natureza escapar às classificações; pois as classificações são
+complexas e nunca se reduzem a uma definição formal
+e lógica; pois a relação entre as obras e os conceitos
+classificatórios é, sobretudo, complexa.
+
+Dissemos que as denominações estilísticas extravasam o domínio da definição formal, que, inicialmente, parecia constituir seu núcleo de base. Elas não
+são lógicas, são históricas, viveram no tempo e tiveram
+caminhos e funções diferentes. Elas evoluíram, e não
+são forçosamente as mesmas segundo as épocas que as
+empregam. Algumas foram criadas por homens que se
+reconheciam nelas: Breton e Dali diziam-se surrealistas,
+Alberti e Masaccio sabiam-se homens da Renascença,
+Courbet colocou na entrada de uma das suas exposições uma tabuleta: “Pavilhão do Realismo”. Em outros
+casos, a atribuição de um epíteto a um grupo de artistas
+é exterior a ele: os “impressionistas”, os *fauve*, foram
+assim chamados de maneira pejorativa, por jornalistas
+do tempo, embora em seguida tenham assumido, por
+pirraça ou paixão, as denominações. E, ainda, há conceitos inventados a *posteriori* para localizar, na história,
+tal ou qual grupo de artistas que, evidentemente, não
+suspeitavam da classificação: Bernini não sabia que era
+“barroco”, nem Simone Martini que era “gótico”...
+
+Ainda: a relação entre os denominadores e as
+obras nunca se dá da mesma maneira. A ideia de romantismo refere-se a uma renovação das técnicas artísticas, na medida em que compreende uma ruptura
+e uma oposição com um passado “clássico”, mas nos
+encaminha – o que é mais importante – a uma visão
+global do mundo, da sensibilidade, a uma atitude diante
+da sociedade, enfim, a todo um conjunto de elementos
+que ultrapassa o lado puramente formal, a especificidade do fazer artístico.
+
+Por vezes, essa especificidade é reduzida a um
+mínimo: André Breton, cujo pensamento constitui um
+dos eixos capitais do que se chamou movimento surrealista, reconhecia que certas técnicas, certos procedimentos, como a escrita automática, que alinha palavras
+ou expressões tais como aparecem espontaneamente,
+em associações, sem controle consciente, ao espírito
+do artista, ou o *frottage* (do verbo francês *frotter*, esfregar), que consistia em tomar a marca em relevo de uma
+superfície rugosa (a madeira de um velho assoalho, por
+exemplo) e com ela organizar um desenho ou um quadro, ou como a colagem de objetos diferentes (recortes
+de jornais, coisas do uso quotidiano ou recuperadas no
+lixo etc.), podiam permitir a manifestação da profundidade inconsciente do artista. Para o surrealismo, a liberação desse “eu profundo” era a meta essencial da arte.
+Mas Breton reconhecia também que essas técnicas,
+embora propícias, não eram suficientes para a realização de uma obra surrealista. Elas poderiam ser utilizadas sem sinceridade, visando apenas um efeito sedutor,
+à moda, tendo como resultado um produto inautêntico,
+pseudossurrealista. Por outro lado, esses não eram os
+únicos meios que o artista podia dispor para obter também a desejada liberação inconsciente.
+
+Uma obra surrealista não depende, portanto, de
+uma definição estilística. Num texto intitulado *Situação surrealista do objeto*, Breton, analisando o problema,
+lembra a sugestão de Man Ray (que trabalhava sobretudo com experiências fotográficas): do mesmo modo
+que, no cinema, costuma-se projetar, antes da película,
+“Este é um filme Paramount”, devia-se descobrir, “incorporado de alguma maneira ao poema, ao livro, ao
+desenho, à tela, à escultura, à construção nova que se
+tem sob os olhos, uma marca, feita de modo inimitável
+e indelével, alguma coisa como: “este é um objeto surrealista’’. A anedota mostra bem que para Breton, além
+do estilo, existem outros fatores decisivos para definir o
+objeto surrealista. E eles se fundamentam numa sinceridade profunda, num impulso de libertação do inconsciente, numa espécie de moral surrealista que escapa
+ao simples exame exterior dos objetos. Nesse sentido,
+talvez o gesto surrealista mais legítimo – e trágico – tenha sido o suicídio de René Crevel.
+
+Como o romantismo, ou melhor que ele, o surrealismo implica uma visão, uma atitude diante do homem e da sociedade. Se examinamos entretanto a pintura
+impressionista, descobrimos poucas preocupações desse tipo. Os impressionistas, enquanto artistas, tiveram uma atitude corajosa e consequente, opondo-se à arte
+dominante de seu tempo. Mas suas obras não repou-
+sam sobre uma determinada posição teórica, política
+ou sentimental diante da vida.
+
+A palavra impressionismo tem hoje uma extensão menor que a adquirida em 1874, ocasião da primeira exposição do grupo, muito díspar, aliás. Impressionismo, depois do artigo irônico e maldoso de Louis Leroi
+no *Charivari*, ficou denominando toda arte pouco ortodoxa ou maldita. Tanto Gauguin quanto Van Gogh,
+nitidamente distintos em sua pintura de um Renoir ou
+Monet, recebiam a denominação.
+
+Mas logo se evidenciou a coerência formal de
+um núcleo mais reduzido. Caillebotte, Monet, Pissarro,
+Sisley, uma boa parte da produção de Renoir recusam
+o desenho que estrutura, privilegiam o gesto espontâneo e preferem pintar ao ar livre, diante do motivo,
+tomando como preocupação central os efeitos produzidos pelos fenômenos puramente luminosos (reflexos,
+transparências, fumaças, brumas) sobre os volumes. O
+assunto do quadro tinha pouca importância: o organizador do catálogo da exposição de 1874 desconsola-se
+ao receber a lista dos títulos de Monet: eram *Entrada de aldeia*, *Saída de aldeia*, *Tarde na aldeia*, *Manhã na aldeia*, *Marinha*, a não mais acabar. E quando ele pinta
+sua série de *Freixos*, de *Montes de feno*, ou a catedral de
+Ruão ao meio-dia ou no crepúsculo, mostra bem que
+seu interesse reside não na representação das árvores,
+do feno ou da catedral, mas nas variações de efeitos
+luminosos sobre esses volumes, que funcionam essencialmente como suportes.
+
+E, assim, chega-se a um conjunto de práticas artísticas que podem ser usadas como elementos definidores; por elas afirmaremos definitivamente que Gaughin e Van Gogh não pertencem ao grupo, nem sequer
+Cézanne, Toulouse-Lautrec ou Degas, que constituiriam, quando muito, o setor das “divergências e variações” do impressionismo, como diz Jean Cassou.
+
+Percebemos, a partir desses exemplos, que as
+classificações não são instrumentos científicos, que elas
+não são exatas, que não partem de definições, e que
+agrupam obras ou artistas por razões muito diferentes,
+entre as quais se pode encontrar a ideia de estilo, mas
+não forçosamente, e sempre parcialmente. O que nos
+leva a considerar que seu emprego deve ser muito cuidadoso.
+
+Um dos perigos é o de sua utilização como universais. É banal encontrarmos a palavra surrealismo
+empregada como sinônimo de insólito, de estranho, de
+desabitual e mesmo de absurdo; como é banal ouvirmos
+dizer que determinado objeto é barroco porque parece
+extravagante ou muito ornamentado – fala-se mesmo
+em uma natureza barroca; ou que tal moça é romântica
+porque possui uma personalidade sentimental, ou que
+tal artista é impressionista unicamente porque pinta de
+maneira mais ou menos livre. Esse emprego descontraído e sem compromisso é evidentemente abusivo,
+apenas apropriado a conversas de salão ou de bar. Entretanto, o mesmo princípio de universalidade costuma
+ocorrer com frequência num discurso que se pretende
+mais elaborado: Bosch passa a ser surrealista, Debussy
+impressionista (fala-se mesmo numa “crítica impressionista”!), Virgílio romântico, ou pior, tenta-se a todo
+preço rubricar os artistas com tal ou qual etiqueta.
+
+Fra Angélico, por exemplo, é gótico ou renascentista? Podemos perguntar se há necessidade de escolher um rótulo qualquer para designar o pintor do convento de São Marcos, pois o importante não é assimilar
+seu estilo ao que supomos seja o gótico ou a pintura de
+Renascença, mas descobrir o que o artista revela como
+preocupações, como visão, qual a sua especificidade
+entre as artes de seu tempo. Lançar mão do metro
+“estilo gótico” para medir Fra Angélico e descobrir se
+ele se encaixa, é empobrecer lamentavelmente a nossa
+percepção de sua obra.
+
+É suficiente nos debruçarmos sobre o objeto artístico em si mesmo para percebermos a inanidade das
+classificações, pois sua riqueza foge sempre a qualquer
+determinação. *D. Casmurro* é muito mais que um romance realista, *A besta humana* não se reduz aos preceitos do naturalismo: as obras, em sua fecundidade
+concreta, são sempre mais do que nos dizem as pretensas definições.
+
+E, no entanto, elas possuem uma singular sedução. Estamos diante de produtos que nos escapam, que
+se desenvolvem de modo tão inesperado, tão pouco
+previsível que, para os dominar, não resistimos à tentação fácil de os classificar. E essas classificações passam
+a ser mais importantes do que as obras.
+
+## Crítica, história da arte, categorias e sistemas
+
+O princípio das classificações baseadas na ideia
+de estilo deu, em particular à história da arte, a esperança de um instrumento objetivo e eficaz. E aqui é preciso distinguir a função do crítico com a do historiador, distinção formal porque, na maior parte das vezes,
+essas atividades se juntam.
+
+O crítico analisa as obras, e sua função é eminentemente seletiva. De certo modo, é o juiz que valoriza
+ou desvaloriza o objeto artístico. É claro que o conhecimento da história das diferentes produções artísticas
+serve-lhe para a elaboração de seus critérios. Um crítico de cinema frequentemente conhece os filmes do
+passado, o que lhe permite um jogo de comparações,
+intuitivas ou explícitas, capaz de o levar a condenar
+este ou aquele filme. Mas isso, além de não ser absolutamente necessário, não se confunde com a *construção*
+da história dos objetos artísticos no tempo.
+
+Assim, o historiador da arte procura em princípio
+evitar os julgamentos de valor. Taine, no fim do século
+passado, lançando as bases de uma abordagem rigorosa desses fenômenos, dirá que é necessário colocar-se entre parênteses o julgamento, para se chegar à compreensão objetiva.
+
+Entretanto, o historiador da arte não consegue
+evitar inteiramente os critérios seletivos, pois o conjunto de objetos que estuda supõe uma escolha. Privilegiará um autor que pareça a seus olhos e aos de seus
+contemporâneos mais importante, consagrando-lhe
+um maior número de páginas, aprofundando mais a
+análise. Uma história da literatura brasileira dedicará
+forçosamente várias páginas a Machado, um número
+bem menor a Gonçalves de Magalhães, e poderá excluir Teixeira e Souza.
+
+A seleção feita ou assumida pelo historiador nunca é o fim procurado, pois, como já dissemos, ele busca
+a compreensão dos fenômenos artísticos. Mas, se ele
+trabalha a partir de um *corpus* (um conjunto delimitado
+de elementos que servirão de objeto de estudo) necessariamente selecionado, o que pretende, antes de tudo, é articulá-lo num conjunto coerente e o compreender.
+
+A compreensão, a suspensão do julgamento denota o desejo de rigor, próximo da ciência. Será útil examinarmos alguns esforços feitos na história da arte
+para se conseguir um rigor maior pela ideia de estilo.
+
+O primeiro momento dá-se com Heinrich Wölfflin (1864-1945), na virada do século. Wölfflin, teórico e historiador nascido na Suíça, tenta construir uma
+metodologia rigorosa no interior da história da arte.
+Antes dele, Taine preocupara-se com as ligações entre
+as obras e o contexto cultural que as produziu. Não é
+isso que interessa a Wölfflin: ele busca um método que
+focalize a obra de arte exclusivamente na sua especificidade e propõe assim, por primeiro, as bases de uma análise formal precisa, fundamento de uma história autônoma das artes.
+
+Em 1888, Wölfflin escreve *Renascença e barroco*. Nesse texto aparecem duas novidades essenciais.
+A primeira é a revalorização do barroco, que desde o
+fim do século XVIII era considerado, pejorativamente,
+uma evolução aberrante e decadente da arte da Renascença, um derivado estéril que tentava compensar
+pela extravagância a ausência de seiva criadora. Wölfflin decide-se por outra interpretação: o barroco é
+uma produção artística nova e total, com seus próprios
+critérios, formas e intenções. A arte dos séculos XVII
+e XVIII é diferente da arte da Renascença, e deve ser
+compreendida em si mesma.
+
+A segunda novidade, não menos importante, é
+que, para Wölfflin, o que determina a autonomia do
+barroco e sua oposição ao classicismo da Renascença,
+é uma análise minuciosa das constantes formais. Pela
+primeira vez, dois períodos distintos da história da arte
+aparecem claramente caracterizados a partir, unicamente, de um inventário estilístico.
+
+Bem mais tarde, em 1915, Wölfflin escreverá outro tratado: os 
+*Princípios fundamentais da história da arte*, que representa o amadurecimento das reflexões desenvolvidas na obra anterior, e a tentativa de as teorizar. Nele encontramos cinco categorias duplas, em
+oposição, que permitiriam caracterizar o classicismo e
+o barroco. São as seguintes:
+
+1ª) o classicismo é linear, o barroco, pictural;
+
+2ª) o classicismo utiliza planos, o barroco, a profundidade;
+
+3ª) o classicismo possui uma forma fechada, o
+barroco, aberta;
+
+4ª) o classicismo é plural, o barroco, unitário;
+
+5ª) o classicismo possui uma luz absoluta, o barroco, relativa.
+
+Compreenderemos melhor o que Wölfflin quer
+dizer com cada uma dessas oposições, a partir de alguns
+exemplos facilmente acessíveis. Para ilustrar a primeira
+categoria, tomemos o chamado tondo Doni\footnote{Figura 1 – *Tondo*, em italiano, quer dizer circular, redondo, e é
+aplicado aos quadros que possuem essa forma: a célebre *Madona da cadeira de Rafael*, que se encontra na Galeria Palatina do Palácio
+Pitti, em Florença, é um *tondo*, a *Virgem com o Menino* e *São João Batista*, de Botticelli, que se encontra no Museu de Arte de São
+Paulo, também. Doni é o sobrenome do florentino que encomendou o quadro.},
+representando a Sagrada Família com São João Batista, pintado
+por Michelangelo na primeira década do século XVI e
+que se encontra no Museu dos Ofícios de Florença.
+
+O quadro é um pouco insólito: o grupo da Sagrada Família está perto do espectador, ocupando o centro
+da tela; atrás, isolados por uma espécie de murinho, estão São João menino e cinco nus masculinos de adolescentes. A estranheza pede uma explicação simbólica, e
+as imagens podem ser tomadas como uma articulação
+entre a antiguidade clássica (os nus) e a religião cristã
+(a Sagrada Família), ou o paganismo redimido pelo batismo, por meio da figura intermediária de São João, ou
+ainda como outra coisa qualquer. Mas isso, por ora, importa pouco. O que nos interessa é a linha, instrumento construtor por excelência, que define com nitidez
+os objetos, conduz o olhar e limita os volumes. Por seu
+intermédio, Michelangelo apreende os corpos no que
+eles têm de palpável, de tátil, isto é, os contornos e as
+superfícies.
+
+Estamos diante de uma visão plástica que isola os
+objetos fisicamente, corporalmente, pelo contorno. Os
+braços da Virgem, musculosos, fortes, sobre os quais
+Wöfflin deixou um texto de profundo lirismo e admiração, são perfeitamente recortados, e o modelado\footnote{Em pintura, o modelado é a aplicação de luz e sombra sobre um
+objeto de modo a se obter o efeito de volume.} 
+tem uma precisão metálica. As dobras do manto são
+também definidas pelas linhas, com rigor, e pelo relevo
+nítido e vigoroso.
+
+Opondo-se ao linear, está o pictural. Há um quadro no museu Richartz, de Colônia, pintado em 1630 e
+portanto mais de cem anos depois do de Michelangelo, que nos servirá de perfeita antítese: ele representa
+também uma Sagrada Família (à qual foi acrescentada
+Sant’Ana – figura 2) e seu autor é Rubens. Sentimos
+imediatamente entre os dois diferenças consideráveis
+– e uma delas é que esse aspecto plástico, tátil, que no
+quadro de Michelangelo atraía nossas mãos, diminuiu
+muito: ao caráter palpável dos volumes substituiu-se
+sua aparência puramente visual. Os limites lineares
+deixaram de ser precisos, as carnes e os tecidos não
+refletem mais a luz e passaram a ser o suporte de uma
+vibração luminosa introduzindo um modelado muito
+menos definido. Os objetos não se encontram mais isolados entre si, mas se ligam, através de passagens suaves, uns aos outros. Num caso, diz Wölfflin, temos
+“objetos corpóreos distintos”, no outro, “uma visão na
+sua totalidade, uma aparência flutuante”.
+
+A segunda oposição, em planos ou profundidade, decorre da primeira. Tomemos dois outros exemplos: *A Escola de Atenas* de Rafael (figura 3), de 1510,
+certamente o afresco mais célebre da série que lhe foi
+encomendada por Júlio II para decorar aposentos no
+palácio do Vaticano; e o *Rapto das Sabinas*, um Rubens
+dos anos 1630 (figura 4), que se encontra na National
+Gallery de Londres. É claro que o contraste mais agudo
+entre essas duas obras, que salta aos olhos numa evi-
+
+\imagemgrande44
+Fig. 1 – Michelangelo Buonarroti – A Sagrada Família
+(tondo Doni). Cerca de 1504/1505. Galeria de Ofícios,
+Florença.
+
+\imagemgrande45
+Fig. 2 – Peter Paul Rubens – A Sagrada Família
+Cerca de 1632/1634. Richartz Museum, Colônia,
+Alemanha.
+
+\imagemgrande46
+Fig. 3 – Rafael – A Escola de Atenas. 1509/1510.
+
+\imagemgrande47
+Palácio do Vaticano. Câmara da Assinatura, Roma, Itália.
+
+\imagemgrande48
+Fig. 4 – Peter Paul Rubens – O Rapto das Sabinas.
+
+\imagemgrande49
+163. National Gallery, Londres.
+
+\imagemgrande50
+Fig. 5 – Jacques-Louis David – As Sabinas.
+
+\imagemgrande51
+1794/1799. Museu do Louvre, Paris.
+
+
+dência gritante, é a total serenidade de um, meditativa,
+calma, e a frenética violência do outro. Mas, além disso, no primeiro caso, existe uma construção em planos
+sucessivos num espaço organizado geometricamente,
+com o auxílio de um desenho rigoroso. O primeiro, segundo e terceiro planos, claros e paralelos, são reforçados pela própria representação do solo: no primeiríssimo
+plano os motivos quadrados do piso em mármore, em
+seguida os degraus e enfim o plano superior. Sobre eles,
+ordenadamente, dispõem-se os personagens. Como,
+entretanto, distinguir planos no quadro de Rubens?
+Não conseguimos mais fazer caminhar nosso olhar por
+etapas; ele circula sem repouso, pois tudo está ligado, e
+passamos do primeiro plano ao último sem transições.
+
+A terceira oposição, forma fechada e forma aberta, ou tectônica e atectônica, como Wölfflin também
+diz, referindo-se a uma estrutura simétrica e sólida,
+repousa sobre a ideia de que os quadros clássicos possuem eixos de construção estáveis e claros, verticais e
+horizontais, e que os quadros barrocos preferem o dinamismo das diagonais. Mas, além disso, a forma fechada
+pressupõe uma suficiência da composição, a aberta um
+extravasamento dos limites físicos da tela: isto é, num
+caso a imagem foi feita para ser vista na sua totalidade e, no outro, como um fragmento. No *tondo Doni*,
+na *Escola de Atena*, temos não somente essa axiaIidade equilibrada, como também a ideia da suficiência
+da representação, enquanto em Rubens prevalece a
+impressão de surpreender, por um acaso maravilhoso,
+um fragmento do mundo visível. Os limites físicos do
+quadro, sua margem, sua moldura, não contêm mais
+a cena, que transborda para o exterior. Num caso, a
+construção pictural é suficiente, no outro, ela pressupõe o espaço do espectador. E, nesta categoria, Wölfflin introduz também a ideia de que o classicismo mostra os objetos numa permanência atemporal, enquanto
+o barroco procura o instante que passa.
+
+Na quarta oposição temos multiplicidade e unidade, ou, como propõe o autor, unidade múltipla e unidade indivisível. Num caso, cada elemento do quadro
+existe por si e se articula de acordo com a organização
+clara do todo: cada personagem da *Escola de Atenas* é
+tratado individualmente dentro de subgrupos dispostos
+simetricamente, inscritos num todo perfeitamente estruturado. No *Rapto das Sabinas* essa vida autônoma
+dos elementos inexiste: “as formas, guardando sua função diretriz, emergem de um fluxo único; para o olho,
+não significam nada que possa ser considerado à parte,
+que possa ser destacado do resto”. A vida de cada uma
+das partes só existe se subordinada ao conjunto.
+
+Finalmente, a luz absoluta e relativa opõe obras
+como os exemplos que demos de Michelangelo e Rafael, às de Rubens, pelo fato de que, nos primeiros
+casos, ela é homogênea em todo o quadro e ilumi-
+na da mesma maneira todos os detalhes. Na pintura
+de Rubens, entretanto, ela seleciona, privilegiando
+certas regiões, obscurecendo outras: à luz abstrata
+e atemporal do classicismo opõe-se a dramatização
+circunstancial do claro-escuro. Caravaggio foi o grande inventor desses efeitos no começo do século XVII
+e seus herdeiros são os grandes iluministas como La
+Tour, Rembrandt, Zurbarán.
+
+Desse modo, por meios exclusivamente formais e
+ignorando os temas das obras (pouco importa a simbologia obscura do *tondo Doni* ou o episódio do *Rapto das Sabinas*), Wölfflin organiza dois grupos estilísticos opostos. No entanto, ele é, antes de tudo, um historiador da
+arte que, pelo seu grande contato com o objeto artístico, sabe que este se acomoda mal em esquemas e em
+simplificações. Suas precauções no utilizar as categorias
+são exemplares. Em primeiro lugar,*corpus concreto*; em
+segundo, ele não perde de vista a história, pois, longe
+de serem universais, suas categorias aplicam-se exclusivamente a dois períodos precisos, o da Renascença
+e o do Barroco. Em terceiro, elas não são nem absolutamente necessárias, nem absolutamente suficientes: tal quadro de Rafael – a *Madonna dell’Impanata*,
+do palácio Pitti, por exemplo, ou a *Sagrada Família da Pérola*, do Museu do Prado, em Madri – utiliza uma luz
+não homogênea, mas seletiva e dramatizada; não há
+em Giorgione, pintor da Renascença veneziana, morto
+em 1510, o contorno que recorta, a superfície metalina
+dos volumes; para não se falar do dinamismo “barroco”
+dos quadros do Tintoretto. Por outro lado, as categorias clássicas poderiam ser aplicadas a David, ao seu
+*Rapto das Sabinas*, de 1799 (figura 5), por exemplo, mas
+seria impossível confundir esse quadro com a produção da Renascença: o tipo de gesticulação empregada,
+trabalhada em si mesma, como poses de ateliê, a sua
+recomposição no conjunto – que dá uma impressão de
+desorganização astuciosa, teatralmente organizada –, a
+vontade de citação arqueológica, são fatores essenciais
+que o distinguem indubitavelmente do classicismo da Renascença.
+
+Wölfflin sempre se mostrou um historiador das
+formas e considerava suas categorias espécies de pólos (que, ele mesmo o diz, certamente não são os únicos), em volta dos quais se situavam, mais ou menos
+próximos, os quadros analisados (ou os edifícios e as
+estátuas, pois elas se referiam também à escultura e
+à arquitetura). Os exemplos escolhidos por ele se encontravam sempre numa faixa de tempo estreita, e seu
+classicismo e barroco não se dessolidarizam da época
+que os engendrou. Classificaríamos Velasquez, Rembrandt, o silencioso, o calmo, o estável Vermeer nessa
+ideia imprecisa que em nosso quotidiano, em nossos
+bate-papos, chamamos de “barroco”? Pois Wölfflin,
+em análises magistrais, as toma como exemplos privilegiados em oposição ao classicismo. Aliás, é significativa a impressão de tanta riqueza em suas análises, finas,
+completas, luminosas, ultrapassando de longe os andaimes esqueléticos das cinco oposições.
+
+Em Wölfflin o discurso é cuidadoso, e parte sempre de um exame do concreto. Sua tentativa de rigor é
+eficaz, porque baseada num instrumento “pobre”, que
+não pretende dar conta da multiplicidade da produção
+artística examinada – para isso, a flexibilidade da análise dos objetos é mais apta –, mas que serve de ponto
+de apoio. As precauções de Wölfflin, entretanto, foram
+reiteradamente abandonadas, e com frequência encontramos um formalismo categórico que se pretende
+absoluta chave explicadora. Passaremos agora a constatar dois casos de evolução – entre os maiores e menores, inúmeros – que derivam, de uma certa forma, da
+atitude wölffliniana.
+
+## D’Ors e a categoria do barroco universal – Classicismo e classicismo francês
+
+Em Wölfflin, como vimos, as obras secretam as
+constantes que permitem a ele situá-las em campos
+opostos... Mas em muitas outras abordagens o molde
+é fabricado de antemão, o metro é uma abstração, e se
+impõe exteriormente às obras.
+
+Eugenio d’Ors, brilhante pensador catalão, foi,
+podemos dizer, um herdeiro perverso de Wölfflin. Em
+1928 escreve *O Barroco*, texto célebre, no qual sua
+erudição “imensa” e sua inteligência propõem a aproximação do conceito independentemente da história,
+querendo-o de uma natureza científica, classificatória
+e universal, como Lineu havia feito com a zoologia e a
+botânica: o barroco seria um “gênero” que agruparia fenômenos culturais temporalmente distantes, mas possuindo constantes determinadoras comuns. Do mesmo
+modo que *felix* recobre um gênero zoológico, barroco
+recobre um gênero cultural e artístico.
+
+Mas se esses fenômenos possuem constantes,
+eles possuem também especificidades que – sempre
+como nas classificações zoológicas e botânicas: *felix leo*,
+o leão; *felix catus*, o gato; *felix tigris*, o tigre – definirão
+as “espécies” do barroco. E d’Ors determina um quadro
+classificatório que começa na pré-história (*o barocchus prístino*) e prossegue, passando pelo *barocchus buddhicus*, pelo barocchus gothicus, pelo barocchus romanticus,
+entre outros. São vinte e duas categorias ao todo, que
+chegam mesmo a um barocchus *finisecularis*, correspondendo às expressões artísticas do fim do século passado
+(d’Ors enumera Wagner, Rodin, Rimbaud, Beardsley,
+Bergson, W. James, Lautréamont, Huysmans), o art
+nouveau, e a um *barocchus postabellicus* (do pós-guerra,
+referindo-se à de 1914-1918), contemporâneo de seu livro, que não se vê associado a exemplo nenhum, mas arespeito do qual seríamos tentados de evocar Proust, o
+*art déco* e... o próprio Eugenio d’Ors.
+
+O livro de d’Ors, pelo seu brilho, pela facilidade
+com que manipula os mais diversos objetos artísticos,
+aproximando-os entre si ou os iluminando de maneira
+inesperada, é de extrema fecundidade. Sua leitura permite entrar em contato com um grande espírito, que
+é, ao mesmo tempo, um grande escritor. Mas é suficiente pensarmos na atitude que consiste em colocar
+no mesmo saco Lascaux, a janela de Tomar, os afrescos
+cretenses, Bergson, EI Greco e Proust para percebermos que, se tais aproximações podem engendrar ideias
+apaixonantes, elas só podem ser obra do sujeito que
+encontra as afinidades, e sua pretensão ao instrumento
+objetivo é um engano.
+
+Wölfflin, historiador das formas, concebe duas
+categorias historicamente situadas em sucessão; d’Ors
+toma uma delas e universaliza-a brilhantemente, sacrificando o rigor. A outra categoria, o classicismo, embora sem um teórico da mesma envergadura que d’Ors,
+será também universalizada. Até pelo menos o século
+XVIII ela estava ligada a uma ideia de *modelo*, os clássicos por excelência sendo os antigos, isto é, os gregos e
+os romanos – justamente a chamada antiguidade clássica. Dessa ideia de modelo-mestre, ela passa a significar
+equilíbrio, rigor, tranquilidade, racionalidade. Pouco a
+pouco, durante os séculos XIX e XX, esse sentido afirma-se cada vez mais e tem repercussões profundas.
+
+A França, por exemplo, constrói uma imagem
+“clássica” de si mesma, de seu gênio o mais legítimo,
+presente em todos os momentos da história do espírito
+francês. Essa visão é sobretudo cimentada no começo
+da Terceira República (a partir de 1870), momento em
+que a ideologia do poder é leiga, positiva, clara, científica: Descartes fica sendo então um filósofo “clássico”,
+Le Brun, Girardon, Mansart, Racine, artistas “clássicos”. Foi preciso esperar Tapiés com seu admirável livro
+*Classicismo e Barroco*, confirmado no recente e genial
+ensaio de Philippe Beaussant intitulado *Versalhes*, opera, para se descobrir que o classicismo francês do século XVII é apenas uma manifestação local e específica de
+um movimento internacional de arte e civilização que
+nos habituamos a chamar barroco...
+
+## Focillon e o evolucionismo autônomo das formas
+
+Para um espírito rigoroso, essas universalizações
+são insatisfatórias. E sentindo as dificuldades das categorias, um esteta e historiador da arte dos mais importantes do século XX tentou elaborar um sistema
+dinâmico da evolução das artes. Para Wölfflin e d’Ors,
+os conceitos são estáticos, eles agrupam, e nada mais.
+Wölfflin liga-se à evolução no tempo, porque em tal
+momento as formas tomam tais constantes e, no seguinte, outras tantas. Mas, para ele, o barroco não é
+uma consequência do classicismo: há uma ideia de sucessão, e não de causalidade.
+
+Focillon, em seu livro que se intitula significativamente *A vida das formas* (1934), tenta o seguinte processo evolutivo: o classicismo é plenitude e
+apogeu, momento de maturidade no qual as formas
+encontram um equilíbrio perfeito, embora fugitivo e
+passageiro. Mas não se trata do classicismo de Wölfflin, isto é, correspondente à Renascença: o conceito é aplicável a todas as épocas artísticas, pelo menos
+como pressuposto possível.
+
+Esse classicismo, que podemos encontrar na
+arte grega, romana, gótica, românica etc., não aparece, entretanto, sem mais nem menos. Ele se insere em
+uma evolução. Há primeiro uma etapa de elaboração,
+que Focillon chama de “estado primitivo”, em que as
+formas, na sua relação com as matérias empregadas,
+com as técnicas usadas, ou no seu próprio ensaio, tateiam, buscam e descobrem pouco a pouco as soluções
+mais eficazes, o emprego mais pleno e perfeito de seus
+meios. É o estado primitivo que prepara e permite a
+maturidade do classicismo. Depois dessa etapa, o artista não tem mais o que buscar e, retomando os meios
+formais já perfeitamente dominados, só pode acrescen-
+tar, complicar, reelaborar: é o esplendor luxuriante das
+formas, o desequilíbrio, o excesso. É o barroco.
+
+Etapa primitiva, clássica, barroca: todos os períodos artísticos, segundo Focillon, passam pelo menos
+virtualmente – por elas. Assim, a arte da Grécia arcaica
+até Miron representaria a elaboração primitiva, Fídias
+seria a plenitude clássica; a produção do período helenístico, o barroco. Focillon estabelece subevoluções,
+entroncamentos genealógicos que tornam complexa a
+universalidade do processo evolutivo, mas essa universalidade é a base essencial de seu pensamento.
+
+Uma das características de sua concepção é que
+tenta instaurar uma história das formas independente
+da história. Nada de sociologia, de psicologia, de relação entre arte e história. As formas possuem suas leis
+próprias de transformação no tempo, que só podem
+ser encontradas na busca da própria forma. O tempo
+da história da arte é assim autônomo, e possui leis específicas. Reconhecemos aqui a marca wölffliniana: a
+especificidade das artes encontra-se nas formas, são
+elas que permitem um sistema classificatório estático
+ou evolutivo. O princípio de uma história formal das artes marcou profundamente o século XX. De um modo
+ou de outro, até muito recentemente, os historiadores
+da arte, mesmo espíritos notáveis como Pierre Francastel, que reivindicava uma sociologia das artes, lhe
+foram devedores. Isso conduziu a uma desvalorização
+das significações do objeto artístico, de seu aspecto semântico. Foram raros os historiadores das artes que se
+preocuparam com o problema do sentido, da significação do objeto – eles se reduzem a um grande nome (ou
+a dois, para não esquecermos o trabalho, menos conhecido mas não menos importante, de Émile Mâle): o de
+Panofsky, que estuda a “iconologia”, isto é, a ciência
+da significação das imagens. Mas Panofsky, por assim
+dizer, assume a separação entre os campos formais e os
+significativos e não se preocupa com formas ou estilos
+– só se interessa pelas significações.
+
+Simplificando – se retomarmos o exemplo do
+*tondo Doni*, a Wölfflin e aos formalistas caberia a preocupação com linhas, cores, volumes, composição, com
+o “estilo”; enquanto Panofsky e os iconologistas tratariam do “sentido” das imagens: o murinho significando,
+por exemplo, a separação entre as duas idades, a antiga
+e a cristã, São João Batista servindo de intermediário
+na medida em que traz o meio – o batismo – para salvar
+os pagãos etc.
+
+O rigor das categorias é forçosamente simples e
+simplificador. A própria ideia de “estilo”, definida um
+sistema de constantes formais, parece insuficiente para
+cobrir a complexidade dos objetos: o surrealismo é mais
+que um estilo surrealista, a bem dizer inexistente. A redução a esquemas formais, estáticos e precisos como
+em Wölfflin, universais como em d’Ors, dinâmicos
+como em Focillon, deixa descoberto, como Panofsky
+testemunha, um setor importante do objeto artístico: o
+seu aspecto semântico. Mais grave ainda, elas excluem
+a problemática da relação arte-cultura, a compreensão
+do objeto artístico passando pela compreensão da cultura que o produziu.
+
+Essas tentativas importantes, entre outras, em
+nosso século, de dar um rigor formal à análise das estruturas próprias da obra de arte – por mais rico, rigoroso
+e complexo que seja o pensamento, como é o caso de
+Focillon – são insuficientes. A riqueza do objeto artístico escapa sempre aos moldes que se querem lógicos.
+
+Tais moldes são perigosos porque induzem a
+acreditar que a aproximação da obra de arte passa unicamente por eles e que, nesse processo, eles são suficientes. Como se formassem uma grade transparente, e como se a riqueza dos objetos artísticos pudesse
+acomodar-se no sistema de ordens que eles propõem,
+sistema que só pode partir de uma seleção redutora dos
+elementos constituintes do objeto artístico.
+
+Dizer que um filme é expressionista ou que uma
+sinfonia é romântica pode ter o sentido de uma definição absoluta do objeto – como, voltando a d’Ors, fazem
+as classificações da zoologia. Entretanto, se quisermos
+utilizar esses termos com fecundidade, devemos limitá-los, precisá-los, examinando cada caso do emprego,
+tornando-os mais modestos, lembrando que as classifi-
+cações são, antes de mais nada, denominações cômodas e não definições científicas.
+
+# Arte para nós
+
+## O museu imaginário
+
+História da arte, crítica, museu, teatro, cinema
+de arte, salas de concerto, revistas especializadas: instrumentos da instauração da arte em nosso mundo.
+Eles selecionam o objeto artístico, apresentam-no ou
+tentam compreendê-lo – por meio deles a arte existe.
+São, como também a arte, específicas e indissociáveis
+de nossa cultura.
+
+Às vezes, lemos ou ouvimos referência a uma
+obra de arte universal, que transcende o tempo e o espaço; a objetos que tiveram, continuam tendo e sempre terão valor artístico. Transcendentes, exteriores
+às culturas e ao tempo, as obras possuiriam como que
+uma “essência” artística, um valor “em si”, intrínseco e
+imanente, que lhes garantiria o “ser” obra de arte, ser
+perene, uma das manifestações “superiores” da natureza humana.
+
+Ora, é importante ter em mente que a ideia de
+arte não é própria a todas as culturas e que a nossa
+possui uma maneira muito específica de concebê-la.
+Quando nos referimos à arte africana, quando dizemos
+arte Ekoi, Batshioko ou Wobé, remetemos a esculturas, máscaras realizadas por tribos africanas da Nigéria,
+Angola ou da Costa do Marfim: isto é, selecionamos
+algumas manifestações materiais dessas tribos e damos
+a elas uma denominação desconhecida dos homens que
+as produziram. Esses objetos culturais não são para os
+Ekoi, Batshioko, Wobé, objetos de arte. Para eles, não
+teria sentido conservá-los em museu, rastrear constantes estilísticas ou compor análises formais, como nós
+fazemos, porque são instrumentos de culto, de rituais,
+de magia, de encantação. Para elas não são arte. Para
+nós, sim.
+
+A noção de arte que hoje possuímos – leiga, enciclopédica – não teria sentido para o artesão – artista
+que esculpia os portais românicos ou fabricava os vitrais góticos. Nem para o escultor que realizava Apolo
+no mármore ou Poseidon no bronze. Nem para o pintor
+que decorava as grutas de Altamira ou Lascaux.
+
+Desse modo, o “em si” da obra de arte, ao qual
+nos referimos, não é uma imanência, é uma projeção.
+Somos nós que enunciamos o “em si” da arte, aquilo
+que nos objetos é, para nós, arte.
+
+André Malraux, pensador francês contemporâneo que muito se preocupou com os problemas artísticos, construiu suas reflexões nas fronteiras desse “em
+si” e desse “para nós”. Ele concebeu a ideia de um “museu imaginário”, que seria a reunião de obras cujas afinidades não procedem da história, mas de uma subjetividade: um museu da subjetividade analógica. Nesse
+sentido, Malraux ilustra o ponto extremo a que chegou
+a ideia de arte “para nós”: trata-se de uma seleção, intuitiva, de obras que não possuem relações evidentes
+entre si, que se encontram separadas no tempo e no
+espaço. Entretanto, Malraux não se perde no arbitrário
+porque – segundo ele – sua subjetividade tem o poder
+de descobrir a força artística que está nos objetos. Imanente. Em si.
+
+“A questão delas (de algumas esculturas enumeradas) projetava-se sobre toda a história; elas sugeriam
+que muitas obras-primas, ao contrário do que afirmam
+as histórias de arte, estão longe de se ligarem assim tão
+estreitamente à produção das civilizações onde nasceram. Inteiramente estrangeiras à sua época, essas figuras retiravam de meios específicos uma presença, rebelde à ilusão e obscuramente aparentada ao fantástico
+(...) Presença que designamos como a da obra de arte,
+e que somos os primeiros a assim fazer” (Malraux, *Le musée imaginaire de la sculpture mondiale*, NRF, 1952).
+
+De acordo com esse raciocínio, os objetos artísticos ultrapassam a história, as sociedades que os engendraram, porque possuem alguma coisa (uma presença)
+que nós, em nossa cultura, sabemos, pela primeira vez,
+detectar e nomear. Mas Malraux é justamente um pensador de nossa cultura, e sua atitude só é possível porque ela lhe fornece os meios. Na realidade, projeção e
+reconhecimento são indissociáveis, e o “museu imaginário” é secretado por nossa maneira de pensar, que vai
+pescar, em todas as civilizações, objetos que chamamos
+“artísticos”. A ideia de transcendência cultural e histórica da arte é nossa; sem nós, ela não existe. Criamos
+a perenidade, a eternidade, o “em si” da arte, que são
+apenas instrumentos com os quais dispomos, para nós
+mesmos, uma configuração de objetos. O absoluto da
+arte é relativo à nossa cultura.
+
+## O “para nós” e a modificação da obra
+
+Vimos, na introdução, como é difícil delimitar a
+linha que separa os objetos artísticos dos não artísticos:
+isso vem em parte do fato de que essa vocação enciclopédica do “para nós” é onívora. O modelo da arte
+ocidental – e portanto também seus limites – foi, durante muito tempo, desde a Renascença pelo menos,
+o da antiguidade clássica: quanto mais próximo se estivesse do antigo, mais a “essência” artística penetrava no objeto. É do fim do século XVIII para cá que a
+nossa concepção de arte alarga-se, conquistando, cada
+vez mais, terrenos novos: descobre-se a arte oriental,
+a egípcia, a popular, a “ingênua”, a africana, a oceânica,
+a arte industrial, os *graffiti* etc. Dispor os objetos artísticos “para nós” significa fazê-los vir de outras culturas
+e outros tempos.
+
+E essa atitude que permite recuperar “artisticamente” a colher de pau utilitária, a máquina de costura
+do começo do século, a cadeira em metal desenhada
+por um ateliê dinamarquês ou italiano. É no questionamento dessa atitude que se encontra o gesto de Marcel Duchamp: incluir, numa exposição, um mictório.
+No caso de Duchamp não se trata, é claro, de valorizar o *design* do mictório, estetizando-o – como fazem
+hoje certos decoradores, ao colocar em cima da mesa,
+transformado em vaso de flores, o urinol de porcelana
+inglesa de nossas avós.
+
+Muito ao contrário, a atitude de Duchamp era,
+por volta de 1915, baseada no princípio da provocação.
+O que chamava *ready-made* (objetos fabricados em série, mas desviados das funções primitivas pela sua instalação numa galeria, num museu), os mictórios, porta-garrafas, rodas de bicicleta que ele impõe ao público
+culto, obrigam esse mesmo público a reconhecer que
+um objeto só é artístico porque foi aceito como tal pelas
+diversas “competências”: pelo museu, pelo crítico, pelo
+historiador.
+
+Compreendemos então o interesse da atitude de
+Duchamp dentro do domínio da arte: crítica à atitude
+solenemente “culta” que nossa civilização confere ao
+contato com o objeto artístico; denúncia do aspecto
+convencional da atribuição do estatuto de arte pelos
+instrumentos da cultura; criação de uma antiarte. Mas,
+supremo poder desses instrumentos culturais, os objetos de Duchamp, que deveriam ser apenas testemunhos de um gesto de questionamento, conservados em
+museu adquirem efetivamente o estatuto de arte.
+
+O mictório que, pela sua função receptora de
+excremento, evoca o lado animal, orgânico e portanto menos “nobre” do homem, está nos antípodas da
+concepção de arte como instrumento de elevação do
+espírito: é antiarte por excelência. Convertido em peça
+de museu, assume o papel de objeto de contemplação,
+passa a provocar “sentimentos” no espectador. Aliás,
+esta função “artística” da antiarte não escapa ao pensamento de Duchamp – ele próprio diz: “são os ‘olhadores’ que fazem um quadro”. Qualquer objeto aceito
+como arte, torna-se artístico.
+
+Mais ainda, a própria atitude da negação da arte
+e a própria crítica radical serão recuperadas como
+“meios” de produção artística. As vanguardas provoca-
+doras sucederam-se em nosso século e se alimentaram
+do desafio e do escândalo. Os sucessores de Duchamp
+se multiplicam ainda hoje pelo mundo afora. E o caso
+de um Ben, na França, que vive do papel de herdeiro
+de Duchamp: sua produção – pequenos quadros negros
+nos quais escreve frases do gênero: Ben é um gênio,
+tudo é arte, faça você mesmo etc. – encontra-se em
+museus de arte moderna e, cúmulo de contradição irônica, esse antiartista é professor numa escola de Belas-Artes. A negação da arte, sua irrisão, recuperadas pelas instituições competentes, tornam-se arte.
+
+Duchamp mostra muito bem uma das consequên­
+cias importantes do “para nós” em arte: originários de
+outras épocas e de culturas distantes, mas agora disponíveis e ao alcance de nossa percepção, os objetos artísticos mudaram ou modificaram seus estatutos, funções, sentidos. A máscara africana deixou de ser, para
+nós, instrumento mágico, é arte; o cartaz publicitário já
+não é instrumento de venda, é arte; a imagem do santo
+perdeu a sua função religiosa, é arte.
+
+Assim, se o “para nós” recupera um número sem
+fim de objetos, introduz ao mesmo tempo uma distância
+entre nós e a obra, pois perdemos sua destinação primeira, seu papel de origem. Mas podemos ir ainda mais longe, pois verificamos perturbações semelhantes mesmo
+em obras que sempre existiram como arte e cuja razão
+de ser foi sempre determinada pelo estatuto “artístico”.
+
+Um soneto de Petrarca, uma paisagem de Ruysdael nunca foram outra coisa senão peças literária ou
+pictórica. Apenas foram criadas em tempos distantes
+do nosso (Petrarca, poeta italiano, viveu no século XIV;
+Ruysdael, pintor holandês, no século XVII), por artistas
+e para um público possuidores de uma cultura muito
+diferente da nossa. Um quadro como a *Gioconda* implicou uma reflexão sobre o espaço, sobre o tempo, sobre
+a natureza do sensível que hoje percebemos com dificuldade. Um trio de Haydn, destinado a divertir uma
+noite o príncipe Esterhazy e ouvido hoje numa enorme sala de concerto moderna, com o recolhimento e a
+consciência de estarmos diante de uma “grande” obra,
+não é apreendido nos dois casos da mesma forma. O
+mesmo se poderia dizer da cantata que Bach compunha para um serviço religioso e que em seguida ficava
+esquecida, do tango ou chorinho de Chiquinha Gonzaga ou Ernesto Nazaré que atualmente são executados
+por intérpretes ilustres. As emoções causadas por um
+filme mudo, no público ao qual era destinado não podem ser as mesmas que o mesmo filme suscita agora
+em nós. O mictório de Duchamp, que provocava escândalo na época é hoje em dia pacífico objeto de cultura. O quadro que estava na igreja ou na galeria de um
+palácio, a estátua que ornava o jardim de um príncipe,
+encontram-se agora lado a lado, num espaço recente,
+que não tem mais de duzentos anos: o museu. Des-
+viando, modificando as destinações iniciais as funções
+e sensibilidades originárias, o “para nós” determina dificuldades na aproximação da obra. A arte pode estender
+indefinidamente seu campo, mas, quando colamos num
+objeto a etiqueta “artístico”, estamos transformando-o
+irremediavelmente.
+
+Umberto Eco, pensador italiano contemporâneo,
+criou o conceito de “ruído”, de interferência exterior,
+que perturba o nosso contato com o objeto. A obra
+é um emissor, ela envia sinais que nós recebemos. O
+tempo, as distâncias culturais são grandes causadores
+de ruídos, que interferem nos sinais enviados. A obra
+tinha, por exemplo, uma função religiosa que ignoramos ou conhecemos mal, baseava-se em convenções
+que não são mais as nossas: à medida que esquecemos
+essas significações originais, fomos atribuindo a ela as
+significações de nossa cultura. Assim, na ideia de arte
+“para nós” é preciso contar com perturbações que podem ser diminuídas pelo esforço do conhecimento, mas
+nunca eliminadas.
+
+## A sobrevivência do objeto artístico
+
+As perturbações interpostas entre nós e as obras
+não são unicamente de natureza imaterial. Muito ao
+contrário, os objetos que vamos buscar por vezes muito
+longe no tempo e no espaço, e que passam a incorporar
+nosso *corpus* artístico, têm uma existência muito concreta. Se quisermos que estejam dispostos “para nós”,
+ao nosso alcance em museus, cinematecas, bibliotecas,
+essa existência concreta é evidentemente essencial.
+
+Existiram, e ainda existem, algumas manifestações artísticas irremediavelmente efêmeras. São assim
+as decorações, ligadas às grandes festas barrocas ou do
+Renascimento: arcos de triunfo, monumentos realizados em material perecível, feitos para servirem uma
+vez só e depois destruídos. Ou também as improvisações musicais: os intérpretes do passado exerciam-se
+em compor diante do público – como fazia o pequeno
+Mozart. Tais peças, que nunca foram escritas, desapareceram para sempre.
+
+No passado, era impossível registrar a arte de
+um intérprete, o gênio de um cantor, instrumentista ou
+ator. Podemos ter uma ideia do que seria o talento de
+João Caetano, o mais célebre ator brasileiro do século
+XIX, podemos imaginar o que devia ser a interpretação da Malibran, cantora de voz mítica, morta com 24
+anos em 1832, mas o essencial perdeu-se: o timbre, a
+entonação, os efeitos materiais do dizer e do cantar. No
+entanto, com a invenção dos meios de fixar o som e
+a imagem, conseguimos reter e transmitir essas manifestações artísticas que há cem anos se perdiam inexoravelmente. Mesmo sem nunca termos visto ou ouvido pessoalmente Cacilda Becker, Maria Callas, Bidu
+Sayão ou Gérard Philippe, podemos nos encantar ainda
+hoje com sua arte.
+
+Entre as manifestações artísticas contemporâneas, algumas são voluntariamente inconserváveis – o
+caso mais conhecido é o dos *happenings* (do verbo inglês
+to *happen*, acontecer), organizados pela primeira vez
+nos anos 1960, por Allan Kaprow, em galerias de pintura de Nova York. A definição lapidar do happening foi
+dada por Salvador Dali: “realizar um *happening* é criar
+uma situação que não pode se repetir”. Com outras palavras, é, num lugar determinado, a reunião de pessoas
+que fazem acontecer coisas por meio do gesto, da voz,
+de atitudes diversas tudo baseado no impulso instintivo,
+irracional, inconsciente, com a utilização eventual de
+drogas do tipo LSD, desenvolvendo uma nova forma
+de percepção, novos modos de relação com outrem e
+com as coisas.
+
+Mas o *happening* é uma forma extrema de antiarte, da vontade de transgredir as convenções da
+cultura. E tais manifestações efêmeras representam
+uma parcela minúscula, ínfima, no conjunto imenso
+dos objetos artísticos. Que são materiais, possuindo
+uma vida, uma existência no tempo, sujeitos à evolução, modificação, destruição.
+
+Jean Renoir, filho do grande pintor Auguste
+Renoir, cineasta francês, autor de *A besta humana*, *A regra do jogo*, 
+*A grande ilusão*, deixou um texto muito
+bonito sobre o destino concreto da obra de arte: “Cheguei mesmo a me perguntar se toda obra humana não é provisória – mesmo um quadro, mesmo uma estátua,
+mesmo uma obra arquitetural, mesmo o Partenon. Seja
+qual for a solidez do Partenon, o que resta dele é muito
+pouco e não temos nenhuma ideia do que era quando
+acabara de ser construído. Mesmo o que resta vai desaparecer. Talvez se consiga, à custa de tanto colocar
+cimento nas colunas, mantê-lo por cem anos, duzentos anos, digamos quinhentos anos, digamos mil anos.
+Mas, enfim, chegará um dia em que o Partenon não
+existirá mais. Pergunto-me se não seria mais honesto
+abordar a obra de arte sabendo que ela é provisória e
+irá desaparecer, e que, na verdade, relativizando, não
+há diferença entre uma obra arquitetural feita em mármore maciço e um artigo de jornal, impresso em papel
+e jogado fora no dia seguinte” (Jean Renoir, entrevista
+dada ao *Cahiers du Cinéma*, nº. 8, nov. 1958).
+
+A constatação de Jean Renoir mostra que a arte
+não é “em si” sequer do ponto de vista material, que,
+sem os cuidados dos homens e a atenção exigida pelo
+“para nós”, ela tende ao desaparecimento. O texto leva
+aos limites extremos a ideia do perecer dos objetos, e
+sugere um outro problema, o do contínuo e imenso esforço que é necessário dispender para manter a sobrevivência material dos objetos artísticos.
+
+Não é uma tarefa simples, e está ligada à ideia de
+ruído. A obra – quadro, estátua, edifício vive, sofre acidentes, envelhece. Para lhe devolver o estado primitivo
+existem as técnicas de restauração. Ora, essas técnicas
+têm de se basear no pressuposto de que podem recuperar o estado de origem, a feição inicial da obra, o que
+é ao mesmo tempo um dado hipotético e um problema.
+Além disso, elas intervêm, concretamente, na obra e
+na sua evolução.
+
+Suponhamos: um quadro foi pintado no começo
+do século XIX. Ele não sofreu acidentes de monta, com
+o tempo, entretanto perdeu um pouco a intensidade do
+colorido. Para reavivar os tons, o conservador espalha
+de vez em quando uma camada de verniz sobre a tela.
+Mas os vernizes envelhecem e acabam difundindo por
+toda a pintura uma tonalidade âmbar, que passa a *fazer parte* do quadro.
+
+Vem um novo conservador, mais jovem, mais a
+par das novidades técnicas e manda retirar as camadas
+de verniz: o quadro surge então com cores muito mais
+vibrantes. A metamorfose poderia nos fazer pensar
+que agora temos diante dos olhos o quadro original.
+No entanto, não teriam sido removidos com os vernizes alguns *glacis*\footnote{O glacis é uma camada muito fina, delicada e transparente de tinta, com frequência colorida, que se coloca sobre camadas já secas,
+permitindo nuanças transparentes e um brilho especial. A pintura
+do século XVIII – Watteau, Fragonard, Hogarth etc. – empregou
+muito esse processo.}? Queria o pintor realmente a violência cromática que recuperamos, ou fora ela atenuada desde o início pelos vernizes que o próprio artista havia aplicado?
+
+E este é um caso simples. Muitas vezes as cores
+sofrem reações fortes, alteram-se e dão um trabalho
+enorme aos restauradores. Pode acontecer também
+que certas técnicas de restauração, aparentemente
+eficazes no momento de sua aplicação, acabem, com
+o passar do tempo, transformando catastroficamente
+a obra.
+
+Em todas as artes, o restaurador se encontra
+continuamente diante de escolhas que deve efetuar em
+função de seu conhecimento técnico, de sua cultura,
+da concepção que possui da obra que restaura. Essas
+escolhas, assim como prolongam a vida da obra, determinam modificações concretas, que tanto podem ser
+felizes como comprometedoras. Sabe-se de uma escola alemã de restauração da primeira metade do século,
+cujos critérios radicais de “cientificidade” acabaram desfigurando para sempre muito Dürer e muito Altdorfer.
+Mais recentemente, depois da Segunda Guerra, uma
+escola inglesa caracterizou-se por tão violentas “raspagens” do verniz, tão brutais eliminações de *glacis*, que
+deixou irreconhecíveis muito Goya, Rembrandt, Watteau de grandes coleções (como a da Wallace Gallery,
+de Londres). As grandes exposições retrospectivas da
+obra de um pintor, reunindo quadros procedentes de
+museus do mundo inteiro, mostram, amiúde, diferenças importantes de aspecto de um quadro para outro, devidas às escolas e técnicas diversas de restauração
+que os trataram.
+
+Por vezes, a recuperação é impossível, e obras
+essenciais da história da arte são contempladas, “vividas”, por nós sob uma aparência muito diversa da
+primitiva. A arquitetura e a estatuária grega, apogeu
+da criação humana, que rememoramos sempre na sua
+límpida brancura de mármore, eram originalmente pintadas – policromia que mal podemos imaginar.
+
+Esses exemplos, suficientemente significativos,
+levam-nos a concluir desde já que a obra não é um absoluto cultural, tampouco um *absoluto material*, pois vive e se modifica. Embora o aspecto material da conservação seja mais evidente nas artes plásticas, o processo também ocorre na literatura, no cinema.
+
+A ele devemos atribuir, por exemplo, a necessidade do “estabelecimento de texto” das edições críticas, nas quais o especialista, confrontando diferentes originais, edições sucessivas, acaba optando por um texto
+que declara “definitivo” e que deve, a partir de então,
+servir de norma para as edições futuras.
+
+Os filmes também se modificam: as cores podem
+alterar-se, as cópias deteriorarem-se e sofrerem cortes;
+na projeção pode haver, com a evolução dos aparelhos,
+mudança de formato, de velocidade. E todos esses fatores, bem diversos, atuam profundamente na percepção da obra.
+
+E restam as manifestações artísticas, bem menos dependentes do suporte material, como o teatro, a música e a dança, que devem sua sobrevivência a uma
+cadeia de aprendizado, a uma corrente de tradições recolhidas por uma instituição muito justamente chamada conservatório.
+
+No caso da música, a partitura é uma garantia
+de estabilidade – a notação minuciosa oferece uma ancoragem bastante sólida às peças musicais. Mas nem
+sempre foi assim: pouco sabemos da música anterior ao
+século XI, isto é, anterior a um sistema eficaz de escrita
+musical. E mesmo, em relação às peças mais antigas,
+há várias dificuldades de interpretação, pois as anotações são precárias, faltam indicações instrumentais,
+perderam-se as tradições, o canto e os instrumentos
+contemporâneos não são adequados, de tal forma que,
+quando ouvimos uma peça de Machault (século XIV),
+Des Pres (fim do século XV, começo do século XVI)
+ou mesmo de Lully (século XVII), estamos diante de
+reconstituições “arqueológicas” que tentam, por hipóteses frequentemente divergentes, reencontrar os sons
+de origem.
+
+Essa cadeia transmite o saber de outros tempos,
+mas, ao mesmo tempo que o passa para frente – conservando assim seus elementos –, ela os modifica. Os homens são outros, as gerações sucederam-se, a maneira de conceber uma partitura mudou. Os próprios instrumentos transformaram-se. Nos seus oitenta
+anos de história, o disco pôde testemunhar inúmeras
+mudanças. E – podemos imaginar – agora que possuímos uma história da música sonoramente conservada, quem sabe mesmo essas modificações, essa evolução,
+possa se desacelerar um pouco.
+
+Mais radical ainda, o caso do teatro. O texto é
+uma base sólida, mas tudo o que constitui o espetáculo
+depende de indicações muito menos precisas, que se
+apoiam apenas num saber por assim dizer “intuitivo” –
+saber que se transmite, mas é profundamente sensível
+às alterações. As tragédias de Racine, no século XVII,
+eram representadas de um modo especial, modulando-se as palavras e os ritmos, numa espécie de recitar
+cantando, cujo eco longínquo talvez ainda se encontre
+nas gravações que Sarah Bernard deixou. Seu monólogo de *Fedra*, onde cada vogal é trabalhada sinuosamente, longamente, é forte, desvairado, fascinante, causando em nós um efeito de estranheza absoluta: hoje,
+nenhum ator ousaria representar assim. Sem contar o
+caso do teatro antigo, do qual só nos restam os textos:
+as tragédias de Ésquilo, Sófocles, Eurípedes, além de
+estarem intimamente ligadas à música que não chegou
+até nós – eram representadas por meio de convenções
+inteiramente diversas das nossas.
+
+A dança é ainda mais frágil. As indicações do coreógrafo só servem para ele mesmo e seus próximos; são sumárias, e sua releitura é sempre de exatidão duvidosa. No caso do *ballet* tradicional a tarefa é um pouco mais simples, pois há um repertório convencional de
+passos. Mas nas formas mais livres da dança, os movimentos do corpo, variados e inesperados, dificultam
+a reconstituição. No entanto, apesar desses problemas
+de conservação, conhecemos coreografias que se mantêm no repertório há mais de um século. E claro que
+elas não são hoje idênticas ao que foram no momento
+da criação, mas guardam o núcleo central concebido
+pelo coreógrafo.
+
+Não nos enganemos. As artes não são imutáveis.
+Lembremo-nos antes que elas se modificam incessantemente: é o preço que pagamos por esse “para nós”,
+que as dispõe sempre ao nosso alcance. Contudo, elas
+se vingam. O quadro, o concerto, o filme nos pregam
+peças, com metamorfoses lentas, mas insidiosas e seguras. E não é tudo. EIas vão mais longe, e nos provocam, nos desafiam, nos iludem.
+
+## O falso
+
+\begin{verse}
+“Assim que a sombra invade os céus,
+o esplendor eclipsado dos tempos que
+se foram
+recompõe-se em meu pensamento,
+inspirando-me cantos dignos de meus
+antepassados”.
+\end{verse}
+
+Assim começa um poema épico que teve imensa
+influência nos homens do fim do século XVIII e início
+do século XIX. Em 1760 são publicados, pela primeira
+vez, os *Cantos de Ossian*, bardo escocês que vivera no
+século III da nossa era. Imediatamente, esses poemas,
+melancólicos e ricos em imagens, cantando a guerra e
+o amor numa época longínqua e num país de brumas,
+fizeram furor. A civilização mediterrânea tinha seu
+grande poeta: Homero; agora, com Ossian, as culturas
+do norte podiam reivindicar seu próprio vate. Herder e
+Heine o exaltam; Goethe nele se inspira; Madame de
+Stael revê a história da literatura a partir de um sistema
+construído sobre os poemas ossiânicos; Napoleão leva
+sempre consigo um exemplar dos *Cantos*; Chateau­
+briand, Vigny, Musset sofrem profundamente sua influência. Os grandes pintores – Ingres, Girodet, Gérard – ilustram passagens do poema em enormes quadros. *A gruta de Fingal*, uma das mais célebres composições de
+Mendelsohn, tem sua origem em *Ossian*.
+
+Como se vê, esses *Cantos* foram fundamentais
+para o romantismo que despontava. Ora, sabe-se perfeitamente agora que eles foram escritos por James
+MacPherson, professor primário escocês da segunda
+metade do século XVIII. McPherson escrevera, sob
+seu próprio nome, um primeiro poema – *O escocês das montanhas* – que fora um grande fracasso. O segundo,
+atribuído a um personagem fictício, marcou profundamente a evolução da literatura.
+
+Os *Cantos* correspondiam perfeitamente a uma
+sensibilidade que a época pedia. A um tal ponto que,
+embora, desde o início, alguns céticos desconfiassem
+da malandragem (como o filósofo Hume), acreditou-se
+em *Ossian* porque o momento precisava dele. No fim
+do século passado, já estava esquecido, pois, embora o
+poema possua efetivamente algumas qualidades reais,
+o tom de mistificação acabou afastando os leitores, que
+antes se deliciavam com as fantasmagorias do “Homero do Norte”. Além do mais, a sensibilidade havia mudado.
+
+Esse, entre os casos mais espantosos de mistificação, é perfeito. MacPherson não só conseguiu enganar os espíritos mais brilhantes de várias gerações,
+como, num certo sentido, essas mesmas gerações pediram para ser enganadas, desejaram acreditar no bardo
+escocês: apesar das querelas que logo se formaram, a
+confiança adquirida pelo poema garantiu sua autenticidade, até que provas irrecusáveis impuseram-se.
+
+As falsificações possuem um grande fascínio. A
+habilidade em enganar, o poder do ilusionismo, a perícia
+na imitação, fazem do falsário um personagem maroto,
+capaz de prodígios desabituais, capaz de rir nas barbas
+dos especialistas e que merece, de certo modo, nosso
+respeito cúmplice. Célebres, os falsos bronzes da Renascença, de autoria de Dossena e Bastianini. Célebres, os
+quadros contemporâneos de Elmyr de Hory – que Orson Welles mostrou desenhando um “Matisse de 1936”
+em seu notável filme *F for Fake*. Célebres, as histórias:
+durante a Segunda Guerra Mundial são vendidas na
+Alemanha telas desconhecidas de Vermeer. Esse pintor, gênio holandês do século XVII, fizera poucas obras,
+e as novas descobertas tinham uma significação capital
+para a história da arte. A guerra terminada, processa-se o homem que encontrara e vendera os quadros para
+os alemães: tratava-se de alienação de bens da cultura
+nacional, de traição. Diante de tão graves acusações o
+réu, Van Meergeren, prefere confessar: os Vermeer tinham sido pintados por ele.
+
+No começo, não se quis acreditar. Peritos, críticos, especialistas, conservadores, todos eram unânimes
+em afirmar a autenticidade dos quadros, dizendo que
+Van Meergeren, premido pela situação, tentava uma
+saída menos comprometedora. Mas Van Meergeren,
+na prisão, pede telas e tintas. E na prisão produz um
+Vermeer espantosamente “autêntico”.
+
+Casos como estes nos deixam admirativos diante
+da falsificação e do falsário. Mas eles são relativamente
+raros. O que não impede que inúmeros quadros “falsos” continuem enriquecendo as melhores coleções de museus.
+
+Bernard Berenson, um dos mais célebres peritos
+do século, dizia ironicamente que noventa por cento
+das obras que se encontram em museus são falsas. Frase de efeito, exagerada, mas que traduz um fundo de
+verdade. Não só porque restaurações duvidosas mui-
+tas vezes “falsificaram” os quadros. E nem falemos nas
+mistificações de pequeno porte, miseráveis, que ocupam e fazem viver antiquários inescrupulosos no mundo inteiro. Estas não vão para os museus.
+
+Mas, quando dispomos os objetos artísticos “para
+nós”, entra uma ordem hierárquica. Os quadros de
+Leonardo ou Rembrandt fazem deles, gênios. Consequentemente, um quadro, qualquer quadro, de Leonardo ou Rembrandt, é tomado como um quadro genial.
+Uma coleção que possua um Rembrandt tem prestígio
+– mais do que se possuísse apenas um “anônimo holandês do século XVIII”, ou um “discípulo de Rembrand­t”.
+Se a obra não é assinada, se não há documentos de
+época que confirmem a autoria do pintor, ela precisa da
+confirmação de especialistas que certifiquem sua autenticidade. Como se pode imaginar, esses especialistas
+raramente estão de acordo. Mas, obtendo-se o assentimento de uma autoridade de peso ou a concordância de uma maioria, cola-se, ao lado do quadro a etiqueta:
+“atribuído a Rembrandt”.
+
+O conservador do museu está, no entanto, convencido de que o quadro é de Rembrandt e, em sã consciência, retira o “atribuído a”. E pode ir além: o quadro
+é de autoria duvidosa, mas o amor pelo seu museu faz
+com que o conservador, convicto, afirme sem hesitação a autenticidade. Ou ele próprio faz a peritagem, e
+dá foros de nobreza ao seu acervo, acrescentando um
+Caravaggio, um Antonello della Messina. Um conser-
+vador francês, competente e apaixonado pela sua coleção, de saber e delicadeza de alma que sempre admirei, descobria em seus quadros, sob antigas denominações
+modestas, autorias célebres. Uma vez, mostrou-me um
+Maulpertch: o catálogo, anterior e prudente, registrava
+“anônimo”. Como eu lhe perguntasse se tinha certeza
+de que se tratava de um Maulpertch, respondeu-me,
+candidamente: “Por quê? Não parece?”.
+
+Caricaturas, certamente. Para tranquilidade nossa, há muita competência e saber sério no mundo das
+artes. Peritos, historiadores, críticos contribuíram – e
+continuam a contribuir – para o seu enriquecimento.
+Todos conhecem a Vênus de Dresde de Giorgione:
+atribuída antigamente a um pintor secundário, ela só
+se tornou o grande quadro que conhecemos graças ao
+arguto *connais-seur* Morelli, que descobriu nela a mão
+do mestre. Muitos catálogos precisos foram estabelecidos graças ao esforço e à erudição imensa de grandes especialistas. Mas é preciso não esquecer que o princípio mesmo da atribuição repousa sobre a incerteza,
+e que a decisão definitiva depende, em última análise,
+de um ato de autoridade: confiamos no especialista. E
+a importância assumida pela autoria às vezes turva as
+águas e, se não nos faz, a todo instante, engolir gato
+por lebre, muitas vezes nos serve coelhos.
+
+Queremos obras de todas as culturas e de todas
+as épocas, queremos obras ordenadas em museus, bibliotecas, catálogos, estudos, queremos obras dispostas em sua hierarquia de valores. Ali, para nós, ao nosso
+alcance. E obtemos esse *corpus* organizado. Mas nele
+as obras perdem alguma coisa de si mesmas, e ele não é
+nem puro, nem imóvel, nem antisséptico. Ao contrário,
+abandonando o “em si”, a extratemporalidade incólume
+da arte transcendente, introduzimos os vícios próprios
+do “para nós”, concreto. O conjunto das obras faz pensar numa grande geleira: aparentemente imutável, ela
+se desloca, no entanto, e possui contínuos movimentos
+interiores. É impossível domesticar a geleira.
+
+# Nós e a arte
+
+## O supérfluo
+
+Mário de Andrade disse uma vez que a arte não é
+um elemento vital, mas um elemento da vida. Não nos
+é imediatamente necessária como a comida, as roupas,
+o transporte e descobrimos nela a constante do supérfluo, do inútil. Uma lâmina num cabo é uma faca, mas é
+preciso que o cabo seja esculpido, que a lâmina seja gravada, para que a faca, objeto de um trabalho supérfluo,
+exprima o amor e a atenção que o homem consagrou a
+ela. Se a arte é associada a um objeto útil, ela é, nele,
+o supérfluo.
+
+Benvenuto Cellini, em 1540, realiza, para o rei
+Francisco I da França, um saleiro. Mas “um saleiro que
+em nada se assemelha aos saleiros comuns”, como diz
+o próprio artista em suas memórias, pois se trata de
+uma extraordinária escultura dos deuses do mar e da
+terra, Netuno e Ops, sobre um pedestal ricamente ornado (figura 6). Os recipientes do sal e da pimenta têm
+a forma de uma barca e de um arco de triunfo. A desproporção entre a função banal e o trabalho artístico é
+evidente e assinala fortemente o quanto a arte significa
+supérfluo.
+
+Não se trata apenas de embelezamento, de ornamento. Trata-se de algo próprio à ideia que possuí­
+mos da arte. Em nossa cultura, ela se encontra no
+domínio da pura gratuidade. Há algum tempo, houve
+uma corrente de gosto que buscava nas formas exigidas pelas funções dos objetos a manifestação da arte:
+ela foi chamada, por vezes imprópria ou obscuramente, de funcionalismo. Este, embora se quisesse fundamentado numa reflexão racional sobre as funções, era,
+em verdade, uma poética do funcional. Não somente
+as funções manifestavam-se além delas mesmas (o aerodinâmico desenho das carrocerias de automóveis era
+mais uma *imagem* dessa função que uma verdadeira
+exigência), como se buscava, nas marcas das funções,
+a arte. E as marcas geradas pela função, mas independentes dela no interesse artístico que provocavam, iam assim investidas pela gratuidade.
+
+Já vimos como a instalação de um objeto em museus transforma-o em arte. A colher de pau de minha
+avó, o porta-garrafas, a roda de bicicleta, o mictório de
+Duchamp, colocados em pedestal ou vitrina, permitem
+
+\imagemgrande91
+Fig. 6 – Benvenuto Cellini – Saleiro de Francisco I. 1543. Kunsthistorisches Museum, Viena.
+
+a eclosão de sentimentos, de intuições evocadoras. A
+forma da colher, os traços que o tempo nela deixou, o
+eriçamento do porta-garrafas, a beleza abstrata da roda
+de bicicleta, a estranheza do mictório, surgem como
+por encanto. Mas, ao mesmo tempo, note-se que esses objetos perderam sua função utilitária: “artística”,
+a colher de pau deixou de fazer sabão. Sua transformação em arte acarretou o gratuito: ela não faz mais parte
+de um sistema racional de utilidade. E, livre, o supérfluo
+emerge como essencial.
+
+Mas, fruto do gesto gratuito, a arte possui uma
+existência frágil, pois não é necessária. Podemos constatar em nossa cultura dois registros diferentes que a
+alimentam. Num deles, o objeto artístico encontra-se
+instalado no interior de funções econômicas ou sociais:
+embora enquanto arte o objeto continue sendo não utilitário, enquanto elemento de um vasto mecanismo é
+empregado para outros fins. Esse emprego garante-lhe
+a sobrevivência. No outro registro, o objeto artístico
+reduz-se à gratuidade; esvaziado de toda função, ele
+depende de uma assistência ao mesmo tempo intencional e artificial, provocada unicamente pelo seu prestígio de ser arte.
+
+Tentemos explicitar melhor. No passado, e ainda
+hoje, os objetos artísticos possuíram funções sociais e
+econômicas que permitiram sua constituição e seu desenvolvimento: antes de ser arte, o crucifixo foi objeto
+de culto, o filme um espetáculo a ser consumido. Da
+igreja ou da produção comercial, para o museu ou para
+a cinemateca, a passagem impõe a perda da função primitiva.
+
+Que justamente nutre a produção artística e lhe
+dá vigor. Em certos casos, quando tais funções ou mudaram, ou minguaram, a arte se torna uma espécie de resíduo prestigioso e se refugia no registro da pura gratuidade. Então, para sobreviver, ela necessita de uma
+assistência, seja enquanto criação, seja enquanto conservação: proteção artificial do governo ou da empresa privada.
+
+Tomemos um exemplo: a ópera. No século passado era um gênero de imenso sucesso. O custo relativamente elevado do espetáculo, derivado de sua
+estrutura muito ampla de instrumentistas, coristas,
+cantores, decoradores, técnicos, era amortizado por
+numerosas representações ou mesmo pela apresentação consecutiva em várias salas. Pequenas cidades da Europa e, no fim do século XIX, as próprias cidades
+brasileiras de província, desde que, pelo seu desenvolvimento econômico, tivessem meios de mantê-los, possuíam um, dois, três teatros capazes de receber as
+companhias (figura 7). Os compositores escreviam
+para esse circuito, sempre ávido de novidades, que vivia das entradas vendidas.
+
+Depois da Primeira Guerra, o cinema destronou
+esse tipo de espetáculo que exigia em cada representação um enorme investimento, tanto financeiro como humano e técnico. Poder-se-ia explicar o fato invocando
+também a mudança do gosto e do interesse do público.
+Mas, se a ópera entrou efetivamente em crise durante
+alguns decênios, hoje ressurge com imensa popularidade. Essa “imensa” popularidade, entretanto, mudou, ela não é do mesmo tipo que a do cinema: o grande número atual de amadores – que, aliás, alimenta um setor
+importante da indústria de discos – não vai à ópera pela
+“diversão”, como vai o grande público ao cinema. Vai
+consciente do ato “cultural” que realiza.
+
+No século XIX, a ópera era uma empresa lucrativa. Hoje, apesar do interesse que novamente desperta, se os ministérios da cultura não intervierem com subvenções, ou, como se passa na Inglaterra e nos Estados Unidos, se grandes firmas do comércio e da indústria não financiarem boa parte dos espetáculos, ela desaparece. A ausência da função econômica acarreta fragilidade e dependência.
+
+As orquestras sinfônicas, grande número de representações teatrais, a escultura e a pintura monumentais estão, considerando as particularidades específicas a cada uma delas, no mesmo caso. Mas existem
+também artes que dispensam esse auxílio, na medida
+em que se inscrevem num sistema de funções econômicas e sociais.
+
+\imagemgrande95
+Fig. 7 – Garcia Redondo – Teatro João Caetano, inaugurado em 1890, com a ópera La Traviata
+de Verdi, em Amparo (SP). Gravura de época de V. Steigel, Museu Histórico Bernardino de
+Campos, Amparo. (O prédio foi demolido há poucos anos.)
+
+## O duplo registro e o mercado da pintura
+
+Distinguimos dois registros nos quais se situam
+as artes: o do “supérfluo” e o das funções sociais e
+econômicas. O primeiro é fenômeno cultural gratuito,
+e a arte que nele viceja necessita de estímulos artificiais para sobreviver. O segundo, interessado, fornece à arte seiva retirada de um terreno diferente. A partir
+desse enfoque, consideremos o problema da pintura contemporânea.
+
+O mercado da arte, tal como conhecemos hoje,
+nem sempre existiu. Existiram, é certo, desde o século
+XV pelo menos, comerciantes de objetos artísticos, de
+gravuras, de quadros. Mas esse mercado, até por voltas do século XVIII, era secundário: o que dominava era a relação direta estabelecida entre aquele que encomendava a obra e o pintor. Este podia pertencer ao círculo de uma corte nobre ou real: Le Brun, pintor de
+Luís XIV, Velasquez, pintor de Filipe IV; podia também
+trabalhar sob encomendas: Michelangelo para Júlio II,
+Holbein para Henrique VIII. E não imaginemos que
+apenas papas e reis encomendavam aos grandes pintores do tempo: nos limites de seus meios, a nobreza, pequena ou grande, provinciana ou não, os episcopados, paróquias, conventos, mais ou menos abastados,
+forneciam trabalho abundante a pintores menores.
+
+Por vezes, à produção já se associava um sistema
+de distribuição e vendas: no ateliê, o pintor célebre “di-
+rigia” a execução dos quadros, confiando as partes mais
+simples a auxiliares e se encarregando da promoção e
+dos compradores: era o caso de Rubens, exemplo celebérrimo entre outros.
+
+A aparição do *marchand*, intermediário que comercializa as obras, é tardia. Ela só se afirma realmente
+a partir do fim do século XIX, nos anos 1880 aproximadamente. Lembremos o nome de Paul Durand-Ruel, *marchand* dos impressionistas. Com sua atuação pioneira, promoveu exposições individuais e temporárias,
+garantindo ao artista a compra de seus quadros, criando o monopólio sobre sua produção, abrindo sucursais em outros países, obtendo grandes financiamentos de
+bancos – como qualquer empresa comercial.
+
+Ao seu lado, podemos alinhar outros nomes
+famosos do comércio das artes de então – Georges
+Petit, Wildenstein, Colnaghi etc. – que puseram em
+funcionamento um sistema internacional de enorme
+poder, que seria reforçado mais tarde pela especulação e pela publicidade.
+
+Ao amador anônimo fica assim assegurado o
+fornecimento dos quadros que deseja. Mas o quadro
+tornou-se também um meio de investimento extremamente cômodo, passível de valorização considerável, idealmente resistente às inflações que o mundo
+de hoje conhece. E, ao amador, acrescenta-se assim
+um outro tipo de comprador. Investe-se em quadros
+antigos, empate de dinheiro seguro e por vezes muito
+lucrativo: um Schnorr von Carosfeld, um Overbeck,
+relativamente baratos há alguns anos, veem-se subitamente valorizados com a recente projeção da pintura romântica alemã.
+
+Mas também se investe na pintura contemporânea: o pintor desconhecido de hoje poderá ser o
+mestre valorizado de amanhã. Sabe-se, cinicamente,
+que a morte de um pintor provoca a rarefação da oferta, e, portanto, o aumento do preço de seus quadros:
+compra-se hoje, barato, a obra cara de amanhã. Evidentemente, para esse tipo de colecionador, a relação
+com a obra intervém muito pouco: em casos extremos a transação é feita à distância, por telegrama, por telefone, e em seguida fecha-se a compra num cofre
+forte; negociam-se mesmo “partes” da obra, cuja totalidade os proprietários coletivos nunca verão. Nesse sistema, o pintor reduz-se à sua assinatura, endosso
+de investimento seguro, garantia do bom negócio. O
+quadro não é mais arte: tornou-se uma convenção financeira. E a prosperidade da pintura pode ser constatada facilmente por um fato simples: os únicos artistas
+verdadeiramente milionários, em nossos dias, são os
+pintores. A fortuna deixada por um Picasso, Braque
+ou Matisse é imensa.
+
+O *marchand* todo-poderoso lança o pintor internacionalmente e controla sua posição no mercado,
+estocando as obras, diminuindo a oferta, aguardando
+a alta de preços, vendendo no momento estratégico,
+pressionando de mil maneiras os meios de valorização.
+No caso de um pintor morto, por exemplo, a valorização pode se efetuar por meio do sistema de autenticação: o *marchand* compra um quadro não assinado que
+poderia ser, digamos, um Utrillo. Tentará obter de uma
+“autoridade competente” – especialistas, peritos, ou
+mesmo pessoas da família, próximos do pintor – o reconhecimento oficial de que a tela é realmente de Utrillo, para que seu preço aumente consideravelmente. Nesse
+modo de proceder, muita malandragem, muita falsificação, muita falcatrua entra em jogo: é conhecido o recente processo judiciário do *marchand* Fernand Legros.
+Há também o crítico que celebra, para a galeria “amiga”, este ou aquele artista; há a reportagem em revistas, especializadas ou não. Há a exposição em locais
+culturalmente prestigiosos, que por “contaminação”
+valorizam o artista. Há o grande livro de luxo, caríssimo, com reproduções em cores acompanhadas de textos sempre elogiosos mas de valor discutível. Por esses
+meios o pintor beneficia-se de uma notável publicidade
+“cultural”, indireta, mas eficaz.
+
+Por vezes, o *marchand* tem sua própria editora,
+seu próprio museu. Maeght, galeria parisiense, publica
+livros suntuosos, catálogos, cartazes de seus próprios
+artistas. Criou até, na Costa Azul, uma “fundação”,
+espécie de museu maravilhoso que integra obras dos
+mais famosos artistas contemporâneos – Miró, Chagall, Braque, Matisse especialmente realizadas para a privilegiada instituição. Internacionalmente célebre, ela
+não tem papel comercial algum. Mas, com frequência,
+expõe pintores menos conhecidos, ligados sob contrato
+à galeria que, na vizinhança dos nomes ilustres, no local de celebração cultural, projetam-se, valorizam-se, e no mercado internacional seus preços confirmam-se,
+reforçam-se, aumentam.
+
+Muitos *marchands*, apaixonados sinceros pela
+pintura, tiveram um papel cultural importante e digno
+de respeito, confiando em artistas desconhecidos e incompreendidos, ajudando-os a se imporem ao público.
+Mas, nessa mescla complexa de dinheiro e cultura, o
+princípio mesmo da “incompreensão” – isto é, das novas formas de arte em luta contra as já estabelecidas – participa do circuito econômico.
+
+As vanguardas artísticas tiveram de lutar contra
+forças reacionárias da cultura para se impor, e a grande luta primeira foi certamente a dos impressionistas.
+Em seguida, os conflitos, os escândalos sucederam-se,
+passando a fazer parte integrante do panorama das artes no século XX. Os impressionistas haviam mostrado
+que tinham razão, e que era imbecil a cultura à qual se
+opuseram. Assumindo como valor positivo a revolta e
+os inovadores, o público, a crítica aderem mais e mais a
+eles, e assistimos a um fenômeno de “recuperação” das
+vanguardas. O grande e oficialíssimo Centro das Artes
+Georges Pompidou (Beaubourg) em Paris abriga todas
+as novas formas de experimentação em arte: é a consa-
+gração solene das vanguardas. A primeira das grandes
+exposições do Centro foi em homenagem ao terrível
+Marcel Duchamp: meio século depois de seus escândalos, o antiartista, antimuseu, anticultura Duchamp é reconhecido como patrono das revoltas e vanguardas,
+e celebrado como emérito valor cultural.
+
+Que tem tudo isso a ver com o mercado das artes? Muita coisa. A institucionalização das vanguardas não pode ser vista apenas como um processo assumido
+de renovação cultural. Pois, se não existirem pintores
+“malditos”, movimentos “marginais” que mais tarde
+serão consagrados, como investir na obra de arte visando futuros lucros fabulosos? Queiram ou não, as vanguardas são cúmplices dos *marchands*.
+
+Do mesmo modo, os pintores mudam de “fases”.
+Nunca, na história da arte, houve tão grande número de artistas que modificassem, sucessivamente, seus modos de pintar, seus estilos. Isso também é compreensível: o colecionador tem de ser estimulado para novas
+compras – as fases, os movimentos novos existem para
+atraí-lo. Do mesmo modo que os modelos incessantemente renovados de automóveis, como bem lembra Otto Maria Carpeaux num artigo sobre Utrillo.
+
+Tudo isso é bem triste. Mas não se pode esquecer
+que esse sistema, matreiro, cobiçoso, por vezes desprezível e nos limites da desonestidade alimenta e faz a
+pintura contemporânea sobreviver com grande vigor.
+Artistas de incontestável qualidade existiram, existem
+e existirão graças a ele.
+
+## O duplo registro: arquitetura e cinema
+
+Essas reflexões rápidas sobre a pintura assinalam o complexo problema do mercado das artes.
+A elas acrescentemos algumas considerações ainda
+mais breves, sobre o cinema e a arquitetura, tratando de sua inserção no duplo registro do gratuito e do interessado.
+
+Já vimos, o cinema sucede à ópera e também ao
+teatro. E o espetáculo da idade industrial e sua vitalidade está garantida enquanto indústria do espetáculo.
+Na ópera, no teatro, o custo de cada representação
+é muito alto; no cinema, ao contrário, os grandes investimentos, muito onerosos, fazem-se no momento
+da *fabricação* do filme. O resultado fica contido em alguns rolos de celulóide, produto que se pode multiplicar indefinidamente. O enorme esforço da produção
+é portanto “cristalizado” materialmente, e renderá
+enquanto for projetado e houver público para vê-lo.
+Assim, o custo relativamente elevado da produção é
+facilmente amortizado pelo pequeno preço da exibição e pela sua capacidade de atingir um público vastíssimo, incomparavelmente superior ao que pode tocar
+uma produção teatral.
+
+Em nossos dias, o cinema sofre a concorrência
+da televisão: se no futuro perder de todo a função econômica que lhe garante a vitalidade, tornar-se-á, como
+hoje a ópera, um resíduo cultural que só artificialmente
+poderá ser mantido. Terá por público uma elite e os filmes far-se-ão – e serão exibidos com subvenções protecionistas. Hipótese muito remota, entretanto.
+
+No caso da arquitetura, a vitalidade parece intervir sobretudo no *fazer*. Precisa-se de um arquiteto
+para a concepção de tal ou qual projeto, público ou
+privado, mais complexo ou mais ambicioso. Seu prestígio, o prestígio de seu escritório garantir-lhe-á as encomendas, e evidentemente interferirá nos preços. No
+entanto, diferentemente do quadro, a arquitetura não
+produz objetos culturais que servem de refúgio monetário: o renome do arquiteto prestigia a encomenda,
+mas não garante a permanência do valor comercial da
+obra. Um quadro, assinado por Cézanne ou Picasso, é
+investimento seguro; um prédio, assinado por Le Corbusier, Mies van der Rohe, Warchavchik, não garante
+coisa alguma, não significa nenhuma valorização. Se há
+degradação social do contexto urbano onde o edifício
+foi construído, não é a celebridade do arquiteto que o
+salvará: os cinemas Art Palácio e Ipiranga (aliás, hoje
+desfigurados), que se encontram no centro de São Paulo, podem ser grandes obras de Rino Levi: a burguesia
+paulistana preferirá as novas salas da Avenida Paulista e
+dos *shopping centers*; o Palácio das Indústrias de Ramos
+de Azevedo será aviltado pela instalação de serviços da
+burocracia pública; os lindos palacetes dos Campos Elíseos tornar-se-ão pardieiros antes de serem destruídos, os da avenida Paulista darão lugar a uma monstruosa
+coleção de arranha-céus extravagantes.
+
+Assim, se a produção arquitetural é autônoma no
+que diz respeito ao projeto e à construção, enquanto
+produto acabado necessita de constante proteção: a
+obra arquitetônica depende, para sobreviver, de instituições oficiais e de legislação protetora. Evidentemente, na selvageria de que é capaz o capitalismo num país
+subdesenvolvido como o nosso, a eficácia de tais instituições e a aplicação de tais leis são muito precárias.
+
+## A caricatura do prazer
+
+A existência da arte, sua vitalidade e conservação ligam-se a fatores que a ultrapassam. O duplo registro do interessado e do gratuito significa que a obra é
+engendrada por funções sociais e econômicas precisas,
+ou que é mantida por um sistema protecionista.
+
+A arte possui também outro papel, suplementar,
+mais difuso, menos nitidamente definível que o das funções acima evocadas: o de distinguir, de valorizar socialmente uma elite. O sociólogo Pierre Bourdieu escreveu
+dois livros sobre a arte e seu público: *O amor pela arte*
+(1966) e *A distinção* (1979), textos notáveis cujas análises, minuciosas, complexas e extensas, não poderiam,
+mesmo condensadas, ser transcritas neste pequeno
+livro. Lembremos apenas que nossa cultura atribui à
+arte um papel “superior”, elitizante. Tocar piano era,
+não faz muito tempo, parte integrante da educação das
+moças de “boa família”, como ainda hoje é enviá-las ao
+balé: o álibi do aprimoramento artístico esconde a afirmação de classe. E embora, num país arrivista como o nosso, cultura sem dinheiro não queira dizer muita
+coisa, pagar caro entradas para espetáculos de dança
+ou de ópera nos grandes teatros, frequentar vernissages
+de luxo ou exibir em casa objetos “antigos”, “coloniais”
+ou equivalentes, faz parte dos sinais exteriores de endinheiramento, mal disfarçados sob a máscara do refinamento cultural.
+
+Podemos dizer também que a arte, em certos
+casos, torna-se a insígnia de uma “superioridade” que
+um grupo determinado confere a si mesmo. Interessar-se pela arte significa ser mais “culto”, ter espírito “mais elevado”, ser diferente, melhor que o comum dos mortais.
+
+Não se trata, aqui, de tentar descrever as múltiplas facetas do pedantismo apoiado na arte; notemos
+apenas duas categorias assinaladas por Bourdieu: os
+“doutros” e os “mundanos”; os que afirmam sobre ela
+um saber, vazado aliás numa linguagem complicada,
+espécie de dialeto específico que pode ir da exatidão
+técnica de esquemas formais até um lirismo exaltado e
+“metafísico”; e os que a utilizam como atributo de um
+comportamento sofisticado.
+
+*A razão*
+
+\begin{quotation}
+“Diferentemente do filósofo,
+o artista não nos dá suas razões;
+ele se contenta em admirar e revelar,”
+(Émile Male)
+\end{quotation}
+
+Vimos que a existência da arte, sua vitalidade
+e conservação ligam-se a fatores que a ultrapassam.
+Descobrimos agora que ela desempenha um novo papel, exterior e superficial. Mas seria empobrecedor e irrisório reduzir a arte, suas causas e fins a esses fatores. Eles dissimulam ou caricaturam seu sentido mais
+profundo: o de instrumento de prazer cultural de riqueza inesgotável.
+
+A ideia de prazer não deve acarretar o ponto de
+vista desdenhoso de algo dispensável. Se a arte não é
+imediatamente vital, ela representa em nossa cultura
+um espaço único onde as emoções e intuições do homem contemporâneo podem desenvolver-se de modo privilegiado e específico. Isso não significa que, em nossa relação com a arte, a razão deixe de intervir. Está
+presente na fabricação do objeto artístico, pois para
+tanto precisamos de uma organização material e de um
+aprendizado técnico impossível sem ela. Dependemos
+também de um encadeamento lógico para ordenarmos
+nossas ideias quando queremos exprimir o resultado do
+nosso contato com a obra de arte.
+
+A razão está assim intrinsecamente presente
+no objeto artístico, mas a obra enfeixa elementos que
+escapam ao domínio do racional e sua comunicação
+conosco se faz por outros canais: da emoção, do espanto, da intuição, das associações, das evocações, das
+seduções. Posso descrever uma obra, desenvolver uma
+análise, assinalar este ou aquele problema, propor relações e comparações. Entretanto, tudo isso significa
+apenas indicar alguns modos de aproximação do objeto
+artístico, nunca esgotá-lo. O artista nos dá a perceber
+sua obra por modos que posso talvez nomear, mas que
+escapam ao discurso, pois jamais deixarão de pertencer
+ao campo do não-racional.
+
+Há exemplos de artistas que se apoiam na ciência
+para a realização de seus projetos. Seurat, no fim do século XIX, concebe seu método pictural a partir de leis
+óticas enunciadas por físicos como Chevreul: o quadro
+devia funcionar como uma pequena “máquina ótica”,
+graças às divisões de tons e à sua justaposição bem calculada. Ora, já se demonstrou largamente como essa fundamentação científica era inconsistente e aleatória
+em sua arte: na realidade, o objetivo de Seurat era levar
+a pintura a um certo grau de impersonalidade e rigor,
+e é isso o importante, para isso a ciência serve-lhe de
+apoio; como uma estrutura rigorosa sobre a qual floresce a não racionalidade.
+
+Mas esse tipo de projeto pode ser mais estrito:
+claro e definido, condutor e racional, ele dirigirá de perto a realização das obras. Alberti, no século XV, propunha a construção de seus edifícios a partir de rigorosas
+proporções matemáticas. Depois de terminada a obra,
+no entanto, ela amplia de tal forma o campo de seus
+múltiplos sentidos que ultrapassa de longe o esqueleto
+matemático, chegando a um horizonte que este nunca
+poderá atingir, onde as comunicações são possíveis unicamente pelos meios da não-razão.
+
+Não raro na história, a arte foi determinada diretamente a partir de programas traçados por poderosos fatores exteriores. Serviu de propaganda, celebrou
+mortos e vivos, satisfez normas, exigências e vaidades.
+Esteve a serviço do poder. Foi – para empregarmos uma
+palavra tenebrosa – instrumento ideológico. Encontramos o exemplo de uma arte dócil, curvada ao destino que se exige dela, no século XVII, quando exalta a
+igreja e a monarquia absoluta. Para citarmos dois dos
+maiores artistas dessa época: Bernini em Roma e Le
+Brun em Versalhes são submissos comparsas do poder.
+A embriaguez mística de Santa Teresa, a beleza sensual e perturbadora dos anjos do castelo Sant’Angelo, o fausto alegórico da galeria dos espelhos no palácio de
+Versalhes são inseparáveis da ideologia que os engendrou. Mas não se reduzem aos fins que se propuseram, pois são passíveis de leituras diferentes, novas, outras,
+ambíguas. Porque sua riqueza intrínseca faz explodir os
+limites de sua “mensagem”.
+
+Não se acomodando às normas, a arte sempre
+se desvia por caminhos incontroláveis, mesmo quando aparentemente obedece. E se, em certas circunstâncias, podemos acreditar que um “engajamento” da
+produção artística seja útil ou louvável, não devemos
+esquecer que há um poder “subversivo” mais profundo
+em sua insubordinação irreprimível.
+
+## A não-razão
+
+“Já me aconteceu, tentando ler numa língua que
+eu não conhecia muito bem, não captar o sentido de
+uma passagem em prosa, até que procurei compreendê-la segundo as regras ensinadas na escola: isto é, foi preciso que eu me assegurasse do sentido de cada palavra, que utilizasse a gramática e a sintaxe, para poder pensar em seguida a passagem em inglês. Notei muitas vezes, entretanto, que um trecho de poesia, de tradução impossível para mim porque continha muitas palavras insólitas e frases que eu não conseguia analisar, me
+comunicava algo de imediato e vivo, único e diferente
+em tudo do inglês – algo que eu era incapaz de formular
+e que no entanto sentia compreender. E, aprendendo
+melhor tal língua, descobria que essa impressão não
+tinha sido ilusória, nem algo que eu apenas imaginava
+estar no poema, mas que realmente estava nele. Assim, na poesia, podemos de vez em quando penetrar num outro país, por assim dizer, sem passaporte ou
+passagem.” Esse texto de Eliot, extraído de um magnífico ensaio – 
+*A função social da poesia* –, mostra a obra poética como um veículo intuitivo paralelo às regras da
+gramática e da sintaxe, externo ao conhecimento metódico e escolar de um idioma, mas capaz de penetrar, vanguardeiro, num espírito poético que é próprio dessa
+língua desconhecida. Discorrendo sobre a poesia, Eliot
+invoca uma característica profunda da arte, a de evoluir
+num meio diferente do racional: “algo que eu não podia
+formular e que no entanto sentia compreender”.
+
+A ciência necessita da ordem, da clarificação, da
+transparência. Mas, como diz Goya, o sono da razão
+produz monstros, e a vida interior do homem é um universo onde se acumulam o estranho, o inesperado, o insuspeitado, o confuso, o inextricável: universo imenso
+da vida inconsciente. Às vezes, num primeiro momento, a arte pode nos parecer obediente e mensageira, mas logo percebemos que ela é sobretudo portadora de
+sinais, de marcas deixadas pelo não-racional coletivo,
+social, histórico. Por isso, não apenas ela faz explodir
+toda intenção redutora, normalizadora ou explicativa,
+como também se dá como específica forma de conhecimento, forma e conhecimentos bem diversos dos processos racionais.
+
+A arte tem assim uma função que poderíamos
+chamar de conhecimento, de “aprendizagem”. Seu
+domínio é o do não-racional, do indizível, da sensibilidade: domínio sem fronteiras nítidas, muito diferente
+do mundo da ciência, da lógica, da teoria. Domínio fecundo, pois nosso contato com a arte nos transforma. Porque o objeto artístico traz em si, habilmente organizados, os meios de despertar em nós, em nossas emoções e razão, reações culturalmente ricas, que aguçam os instrumentos dos quais nos servimos para apreender
+o mundo que nos rodeia.
+
+Entre a complexidade do mundo e a complexidade da arte existe uma grande afinidade. A ciência tenta
+localizar e sistematizar as constantes que regem o mundo por meio de uma espécie de transparência teórica.
+Ela necessita dessa redução porque parte do simples, do
+elementar. Por exemplo – a lei da gravidade explica-nos
+a razão pela qual os corpos caem: a laranja que tomba
+da árvore, o rochedo que rola da montanha, o homem
+que se atira do vigésimo andar são regidos pela mesma
+lei. E as razões do fruto maduro, da erosão, do suicídio
+devem ser buscadas em outras leis, em outros setores
+da ciência. Entretanto, escapam ao conjunto das leis
+e das explicações causais as nossas relações afetivas,
+intuitivas, com esses acontecimentos.
+
+A arte não isola, um a um, os elementos da causalidade, ela não *explica*, mas tem o poder de nos “fazer sentir”. Isso, evidentemente, não quer dizer que a
+arte substitui a causalidade científica, nem que ela se
+encontra em oposição à ciência. Nem explica, de outro
+modo, nem anula a explicação científica da queda.
+
+“O comentário (de Poe) projeta o espírito em todas as direções, evoca um enorme passado, concentra
+uma massa polivalente de sonhos e temores. O poeta
+sabe muito bem que se pode imaginar diretamente o
+movimento; sua imaginação dinâmica confia na imaginação dinâmica do leitor, que deve compreender a
+vertigem ‘com os olhos fechados’. (...) O contista não
+colocou o leitor diante de uma situação espantosa, colocou-o numa *situação de espanto*, moveu a imaginação
+dinâmica fundamental. O escritor induziu diretamente
+na alma do leitor o pesadelo da queda.” Gaston Bachelard, em *A queda imaginária*, capítulo de seu livro O ar e
+os sonhos, assinala a fantástica riqueza que Edgar Allan
+Poe transmite ao leitor a partir do tema da queda. O
+“projetar o espírito em todas as direções”, o “evocar
+um enorme passado”, o “colocá-lo numa situação de
+espanto” etc., indica o quanto essa “transmissão” passa
+pelo indizível. Poe desperta sentimentos em nós, faznos apreender por intuição, enriquece nossa percepção
+da queda, agora tão diferente da limpidez própria da lei científica.
+
+A arte constrói, com elementos extraídos do
+mundo sensível, um outro mundo, fecundo em ambiguidades. Na obra há uma organização astuciosa de
+um conjunto complexo de relações, um mundo único
+feito a partir do nosso (“um quadro deve ser produzido
+como um mundo”, dizia Baudelaire), capaz de atingir
+e enriquecer nossa sensibilidade. Ela nos ensina muito
+sobre nosso próprio universo, de um modo específico,
+que não passa pelo discurso pedagógico, mas por um
+contato contínuo, por uma frequentação que refina
+nosso espírito.
+
+Conhece-se a onda de suicídios que a leitura de
+*Werther* provocou, em 1774: a experiência romântica
+foi frequentemente de vida ou morte. É importante
+lembrar, portanto, que a viagem ao mundo da arte não
+“melhora” nossa relação com nosso mundo. Mas o fato
+é que, se não melhora, ela transforma essa relação, tornando-a mais complexa, mais rica. A leitura de *Werther* significou um conhecimento sentimental novo, e mesmo, um aprendizado do suicídio.
+
+A arte propõe uma viagem de rumo imprevisto –
+da qual não sabemos as consequências. Porém, empreendendo-a, o que conta não é a chegada, é a evasão.
+Buscamos a arte pelo prazer que ela nos causa. Uma
+sinfonia, um quadro, um romance são refúgios, pois instauram um universo para o qual nos podemos bandear, fugindo das asperezas de nossa vida “real”, procurando
+as delícias das emoções “não-reais”. No fundo, são os
+mesmos motivos que nos fazem assistir a um jogo de
+futebol. A diferença é o corolário que enunciamos acima: as emoções artísticas são ricas e fecundas, o prazer e a evasão só são “alienações” num primeiro momento:
+transformando nossa sensibilidade, elas transformam
+também nossa relação com o mundo.
+
+Conhecimento e evasão: os dois termos associam-se na ideia de viagem. A compreensão de uma lei científica faz-se pelo meu raciocínio, claramente: a
+lei é enunciada de modo suficiente e necessário, sem
+mais, sem menos e sem ambiguidades. Mas se dizemos
+“eu te amo”, que queremos dizer exatamente? Exprimimos uma relação de desejo, de espera, mas vaga, imprecisa, cuja determinação em nós mesmos somos
+incapazes de definir, cujas intenções nos escapam em
+muito (respondemos?, suplicamos?, esperamos?);
+cujas propriedades são misteriosas (implicamos nela
+uma exclusividade?, uma permanência?, comprometemo-nos?). Foge-nos também seu alcance. O próprio contexto, a história pessoal pressuposta pela expressão só nos é conhecida parcialmente.
+
+Quando no teatro, no cinema, na ópera, ouvimos
+“eu te amo”, as mesmas ambiguidades estão presentes,
+e nós as vivemos, intuímos, ao nos emocionarmos com
+as emoções dos protagonistas. Porém nos emocionamos “por procuração”. Sofremos com as desventuras dos personagens, exultamos com sua felicidade. Não
+comprometemos nossos sentimentos ou vidas: penetramos numa espécie de análogo da relação amorosa. E, é bem verdade, se o fazemos é de alma limpa: vivemos com as nossas paixões as paixões de outrem, sem os compromissos e as exigências do “real”.
+
+A leitura de Proust faz-me sair deste escritório,
+esquecer os problemas do quotidiano e mergulhar num
+mundo que não é o meu. Mas, se me angustio seguindo
+Swann em busca de Odette pela Avenida dos Campos
+Elíseos, se a aparição dela em meio à noite me subjuga,
+se o aprendizado da renúncia do narrador face à indiferença de Gilberte toca-me e entristece, ao mesmo tempo que me emociono, aprendo configurações do
+amor que não as minhas, descubro recônditos alvéolos
+de sentimentos humanos que não conhecia. E me descubro a mim diferente do que sou no quotidiano, pois estou diante de uma sociedade com seus costumes e
+práticas, com seus sentimentos modulados de modo
+diferente dos que eu até então soubera.
+
+E claro que as emoções artísticas não se resumem numa réplica das emoções amorosas: elas são de
+toda sorte. Uma fuga de Bach, por exemplo, não faz
+referência a nenhuma imagem do “real”. Ela é pura organização de um material sensível – o som. E a construção sonora, que é única e nova, ensina-nos uma
+inter-relação específica, causa de prazer e sentimentos
+“abstratos”.
+
+# A frequentação
+
+## A “sensibilidade inata”
+
+A fruição da arte não é imediata, espontânea,
+um dom, uma graça. Pressupõe um esforço diante da
+cultura. Para que possamos emocionar-nos, palpitar
+com o espetáculo de uma partida de futebol, é necessário conhecermos as regras desse jogo, do contrário
+tudo nos passará despercebido, e seremos forçosamente indiferentes.
+
+O conhecimento das regras do futebol é relativamente simples. Basta alguma assiduidade às partidas para se perceberem as qualidades, os defeitos das equipes e diferentes jogadores. A arte, no entanto, exige
+um conjunto de relações e de referências muito mais
+complicadas. Pois as regras do jogo artístico evoluem
+com o tempo, envelhecem, transformam-se nas mãos
+de cada artista. Tudo na arte – e nunca estaremos insistindo bastante sobre esse ponto – é mutável e complexo, ambíguo e polissêmico. Com a arte não se pode
+aprender “regras” de apreciação. E a percepção artística não se dá espontaneamente.
+
+Com frequência, a complexidade do objeto artístico faz com que ele não seja imediatamente acessível. E claro que nos poderão objetar: “todos” gostam
+de Renoir ou de Van Gogh; “todos” são sensíveis a
+Chopin. Na realidade, a sedução “imediata”, a adesão
+espontânea que Renoir ou Chopin provocam, já foi
+mediatizada por um gosto geral que, num dado momento, nossa cultura engendrou. Não será necessário tornar a discutir a variação dessas preferências no
+tempo. Lembremos apenas que elas também podem
+variar segundo o meio sociocultural: Renoir é hoje
+preferido por um grande número de pessoas, Chopin
+também, mas uma elite mais sofisticada poderá, justamente em reação a essa popularidade, desprezá-los, numa atitude de pedantismo.
+
+O fato de uma grande obra ter sido consumida
+por um largo público significa apenas que ela possuía
+elementos capazes de seduzir um grande número de
+pessoas num momento determinado.
+
+O *Falcão Maltês*, de John Huston, é um filme notável na história do cinema e bateu recordes de bilheteria. Quarenta anos depois de seu lançamento transformou-se em peça de museu, programa de cine clubes
+e de cinemas de arte: as convenções que atraíram multidões em 1941 hoje deixaram de operar. A qualidade intrínseca do filme, no entanto, é a mesma.
+
+Já vimos como entre nós e a obra intervém um
+“ruído” perturbador e ainda como o tempo é o grande
+gerador de ruídos, não só pelo envelhecimento material
+dos objetos artísticos, como sobretudo pelas modificações provocadas pelas convenções efêmeras. Estas, que parecem transparentes no momento em que a obra foi
+engendrada, continuam presentes e interferindo quando se tornou anacrônico o consenso ao qual elas diziam respeito. E preciso então um esforço para compreender
+essas convenções que não são mais as nossas.
+
+Dessa forma, na nossa relação com a arte nada
+é espontâneo. Quando julgamos um objeto artístico
+dizendo “gosto” ou “não gosto”, mesmo que acreditemos manifestar uma opinião “livre”, estamos na realidade sendo determinados por todos os instrumentos
+que possuímos para manter relações com a cultura
+que nos rodeia. “Gostar” ou “não gostar” não significa
+possuir uma “sensibilidade inata” ou ser capaz de uma
+“fruição espontânea” – significa uma reação do complexo de elementos culturais que estão dentro de nós diante do complexo cultural que está fora de nós, isto
+é, a obra de arte.
+
+“Nas obras-primas dos mestres, tudo nos instrui
+(...) Acontece, porém, que essas obras-primas que nos
+enriquecem são por sua vez enriquecidas por nós. Cada
+geração descobre nelas um sentido antes despercebido”, dizia o velho mestre Emile Mâle. A intrincada relação entre arte e cultura – cultura que a engendra e que
+dialoga incessantemente com ela – determina a crítica
+das noções de “sensibilidade inata”, “fruição espontânea”. Os objetos artísticos encontram-se intimamente ligados aos contextos culturais: eles nutrem a cultura,
+mas também são nutridos por ela e só adquirem razão
+de ser nessa relação dialética, só podem ser apreendidos a partir dela.
+
+Lembremos também que a obra é constituída,
+em última análise, por elementos culturais mais profundamente necessários que os próprios elementos materiais. Não há dúvida de que o trabalho sobre a matéria,
+a habilidade artesanal, o domínio sobre o fazer são elementos constitutivos essenciais da arte, mas eles repousam sobre um pressuposto anterior: o da transformação da matéria numa expressão cultural específica
+(matéria toma aqui um sentido largo: a pedra para o escultor e a palavra para o poeta estão no mesmo nível).
+Num caso extremo como o do mictório de Duchamp,
+essa manipulação parece evidente: arte não é o mictório, é o gesto que o coloca num museu.
+
+Não há escapatória: ver um quadro, ler um livro,
+é utilizar instrumentos culturais para apreendê-los. Se
+o quadro representa um homem na cruz, sabemos que
+se trata da crucifixão do Cristo; se reproduz uma montanha e um rio, reconhecemos o que nossa cultura denomina “paisagem”; se o livro começa por: “Uma noite
+destas, vindo da cidade para o Engenho Novo, encontrei num trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu”, nós compreendemos a frase porque está escrita numa linguagem familiar e dominamos os elementos culturais aos quais faz
+referência.
+
+O que é grave nas ideias de “espontâneo”, de
+“sensibilidade inata”, é que elas impedem uma relação
+mais elaborada com a obra de arte, o esforço necessário para um contato mais rico com ela. A frase que citamos acima, aparentemente simples, é assim tão
+clara? Todos os leitores brasileiros ou mesmo estrangeiros, caso o livro seja traduzido – saberão o que é o Engenho Novo?, trem da Central, que hoje associamos a um meio de transporte proletário, insuficiente e malconservado, terá a mesma significação na frase? Além disso, quantos de nós compreendemos sem confusão o que é o “conhecer de chapéu”, isto é, a relação cerimoniosa, mas cordial, entre duas pessoas,
+traduzida pelo gesto cortês de saudação que consiste
+em soerguer ligeiramente o chapéu, hoje, que homens
+não usam chapéu?
+
+Essas dificuldades simples, e outras mais profundas, estão sempre presentes no nosso contato com a
+obra. Para conseguirmos dialogar com ela, é preciso
+enriquecer esse contato. E se não há dúvidas de que te-
+mos preferências e afinidades com um ou outro objeto
+artístico, o importante é que nossa relação com ele seja
+sempre rica.
+
+## O discurso e a frequentação
+
+Nessa relação intervém o discurso “autorizado”.
+Já vimos suas misérias, contradições, e seria possível
+insistir ainda sobre suas pretensões frequentes a uma
+“objetividade” interpretativa, a uma “verdade”. Mas,
+múltiplo em seus sentidos, o objeto artístico mantém
+uma relação tão complexa com a cultura que se mostra
+inesgotável e inapreensível. Quer queiram, quer não,
+os textos são sempre “incidentais”: iluminam certos
+aspectos, chamam atenção para outros, constroem
+relações ligando as obras entre si, ou à história, à sociologia, à psicologia, à filosofia; mas tais análises são
+sempre parciais, porque a obra acaba sempre escapando ao desvendamento total. Os textos nunca são
+transparências através das quais pode-se “ver” melhor
+a obra, cuja riqueza zomba dos cientificismos: qualquer
+método de análise pode ser eficiente, trazer informações úteis, mas não esgota, nem traduz a “verdade”
+da obra. O discurso sobre a arte exprime unicamente
+a relação da cultura do autor com o objeto cultural que
+é a obra de arte. Não esgota o objeto artístico – pode
+eventualmente enriquecê-lo.
+
+O texto só adquire sua verdadeira dimensão
+se o colocamos no interior de um movimento em
+que a abordagem da obra repousa sobre a ideia de frequentação.
+
+O contato frequente com a obra, a proximidade do objeto artístico, essa “predisposição amorosa” de que fala Platão referindo-se ao conhecimento – mas
+que poderíamos aqui transferir para a arte – são os únicos meios de que dispomos para transitar pelos caminhos de não-razão, evocados no capítulo precedente.
+Os diferentes modos “autorizados” do discurso sobre
+a arte são, nesse sentido, utilíssimos, à condição de nos
+lembrarmos sempre de que representam apenas *um* dos
+meios possíveis dessa frequentação. É importante não
+confiar nos textos como desvendadores ou chaves do
+objeto artístico. Eles são instrumentos complementares, auxiliares da frequentação, mas não são “tradutores” ou explicadores absolutos da obra mesmo quando,
+autoritariamente, pretendem sê-lo. É importante saber
+servir-se dos textos com cautela.
+
+Frequentar uma obra é, antes de tudo, um ato de
+interesse. Ouvir uma sinfonia é escutá-la e reescutála; olhar um quadro é examiná-lo, observá-lo, detalhálo. Conheço poucos exercícios tão fecundos quanto
+descrever simplesmente uma pintura mais ou menos
+como os de minha geração faziam na escola primária,
+no que então se designava por “descrição à vista de uma gravura”.
+
+Nosso universo visual é, por assim dizer, sintetizador: o impacto dos cartazes publicitários, o sentido
+único e indiscutível dos sinais de trânsito, a solicitação
+frenética das imagens da televisão exigem uma leitura
+rápida: somos treinados para apreender, de um só golpe, o sentido de cada mensagem enviada. Perdemos o hábito do olhar que analisa, perscruta, observa. Enumerar o que vemos numa pintura é menos simples do que parece. Em todo caso, esse treino modesto permite descobrir muitas coisas importantes que não surgiam à primeira vista.
+
+É claro que, posteriormente, devemos ultrapassar esse contato elementar e primeiro. Podemos ler
+textos sobre o quadro, ou recorrer a outros textos que
+não sejam de história ou crítica de arte. Para compreender, por exemplo, um quadro como
+*A Liberdade sobre as Barricadas*, de Delacroix (figura 8), o conhecimento
+da revolução de 1830 na França é muito necessário, do
+mesmo modo que é necessário algum conhecimento da
+história do Brasil para penetrar no sentido da Primeira
+*Missa* ou do *Tiradentes*, temas tão caros à nossa pintura, de Victor Meirelles a Pedro Américo (figura 9) e
+Portinari. Podemos ainda comparar entre si quadros do
+mesmo autor; ou quadros do mesmo gênero; ou quadros de pintores que tenham afinidades com aquele que
+nos interessa. Podemos situar o pintor em sua cultura e
+seu tempo. Enfim, podemos enveredar por mil sendas
+
+\imagemgrande124
+Fig. 8 – Eugène Delacroix – A Liberdade sobre as Barricadas. 1830. Museu do Louvre, Paris.
+
+\imagemgrande125
+Fig. 9 – Pedro Américo – Tiradentes. 1893.
+Museu Mariano Procópio, Juiz de Fora.
+
+diferentes: o essencial é nos mantermos, sempre, próximos à obra.
+
+Tudo isso implica uma operação delicada que exige esforço e humildade: é como se estivéssemos diante de um enigma a ser decifrado. O que não quer dizer
+que todas as obras apresentadas pelo discurso autorizado sejam admiráveis e profundas. Muitas vezes, o enigma revela-se pobre, indigente, sem interesse. Mas
+para que a nossa crítica não corra o mesmo risco – isto
+é, não seja pobre, sumária ou exterior – é fundamental
+o exame, a reflexão, os argumentos, enfim, o nosso discorrer sobre a obra. Se não “gostamos” de um objeto artístico qualquer, se ele nos parece uma impostura,
+nossas justificações e argumentos impõem-se. E se a
+escolha “espontânea é pouco fecunda e os critérios a
+priori que aplicamos são estéreis e esquematizados, o
+discurso alheio, “autorizado”, também pode nos colocar em trilhos errados.
+
+Essa atitude “empírica” diante do objeto artístico permite, aliás, um controle dos textos – ela nos
+fornece os fundamentos de uma discussão sobre eles,
+de seu questionamento. E, fornecendo-nos o fundamento da desconfiança do discurso, tende a lhes neutralizar a autoridade, incitando-nos a não aceitá-los
+como veículo da palavra “competente”. Em suma,
+pela frequentação evitamos delegar a outrem a nossa
+relação com a obra.
+
+Dissemos no início que a arte escapa às definições. Seu domínio, movente e fugidio, estende-se além da razão, além das determinações racionais e lógicas.
+E, por isso mesmo, a questão – o que é a arte? – foi
+substituída por outra – como nos aproximarmos dela?
+
+Lembremos ainda que é na frequentação da obra
+que a intersubjetividade pode se dar. E por meio dela
+que podemos “encontrar” com o autor, sua época, e
+também com nossos semelhantes. É pelas veredas não
+racionais da arte, que a frequentação permite descobrir
+e percorrer, que nos “sintonizamos” com o outro, numa
+relação particular que a vida quotidiana desconhece.
+Terreno da intersubjetividade, a arte nos une, servindo
+de lugar de encontro, de comunhão intuitiva; ela não
+nos coloca de acordo: ela nos irmana.
+
+## O acesso á arte
+
+Falar é fácil. A frequentação da arte depende,
+no entanto, de circunstâncias materiais, de meios concretos: ela não é dada a todos. Você que me lê não é, certamente, operário nem lavrador, e provavelmente vive na proximidade de um grande centro. Aliás, o
+dado elementar de que você é alfabetizado já o coloca
+numa situação privilegiada. Basta isso para assinalar
+as dificuldades do acesso à cultura num país subdesenvolvido como o nosso.
+
+Mais ainda: o fato de ter adquirido este livrinho,
+*O que é arte*, faz de você um caso especial. Seu interesse pela arte é ao mesmo tempo algo raro e casual: ele
+não veio certamente da escola (a menos que você tenha tido um professor excepcional); não foi estimulado por nenhuma política cultural efetiva, coerente, ou pelos meios audiovisuais. Num sistema de ensino voltado
+para a formação a mais pragmática e tecnológica, sob
+o desinteresse e a incompetência dos “responsáveis”, e
+bombardeado por emissoras de rádio e TV regidas pelo
+princípio absoluto do lucro, você se encontra numa situação de grande miséria cultural.
+
+As parcas manifestações artísticas de algum interesse neste país são pouco frequentes, em geral muito caras e sempre se localizam nas grandes capitais. Quantos podemos ir ao teatro, à ópera, ao concerto, mesmo ao cinema? As aparições dos Baryshnikovs, dos Béjarts, as representações suntuosas de óperas do Teatro Municipal do Rio de Janeiro, os pingados espetáculos de prestígio a preços astronômicos não são certamente
+capazes de preencher as enormes lacunas culturais que
+vivemos. E como, evidentemente, a solução não está
+nas lamentáveis operações demagógicas que aparecem
+de quando em quando, quem se interessa pelas artes no
+Brasil continua sendo um fruto bizarro e teimoso.
+
+Assim, somos obrigados a um grande esforço,
+mergulhados que estamos num meio indiferente, ou
+mesmo hostil. Apesar da ínfima parte consagrada à cultura, a TV, o rádio, o disco, a reprodução em cores, são, para muitos entre nós, o único veículo que permite chegar à arte e nos familiarizarmos com as obras. Existem
+no mercado alguns álbuns de reprodução relativamente
+acessíveis, e algumas emissoras de rádio ou de TV propiciam a muitos brasileiros um contato com a arte que de outro modo seria impossível.
+
+Esses meios, no entanto, são bem poucos. Além
+de circunstancialmente insuficientes, eles o são também de um modo intrínseco: não substituem a relação
+direta com a obra. Por exemplo, uma reprodução, por
+melhor que seja, só nos dá uma ideia aproximativa do
+quadro, da estátua, do edifício. As cores nunca são as
+mesmas, a matéria, o relevo, o espaço estão ausentes. Não se trata de uma exigência de “autenticidade” em relação ao original, nem da incapacidade das técnicas de reprodução transcreverem alguma nebulosa
+aura que envolveria os objetos artísticos. Trata-se de
+elementos muito concretos: mesmo nas melhores reproduções, é impossível obter-se a superfície rugosa de uma tela de Van Gogh; o catálogo, impresso com o
+cuidado mais perfeito, será obrigado a reduzir e igualar
+o tamanho das obras; em termos de cores, de matérias, as melhores fotografias são sempre insuficientes. E isso sem mencionar o caso muito mais delicado da
+escultura e da arquitetura. Do mesmo modo, a sinfonia
+ouvida no rádio ou na vitrola, por mais aperfeiçoados
+que sejam os aparelhos, não substitui a sala de con-
+certos. Nem a peça de teatro ou o filme transmitidos
+pela televisão substituem a representação no palco ou
+a projeção no cinema.
+
+Úteis, indispensáveis na formação de uma cultura visual e sonora, as técnicas de reprodução não são suficientes. Não é apenas necessário termos acesso às
+artes pelos álbuns, pelo rádio, pelos discos, pela televisão, é necessário também ir a museus, a concertos, a teatros, a cinemas, a exposições. É necessário visitar
+monumentos. É necessário poder ler.
+
+Assim, num país como o nosso, temos de acrescentar ao esforço que a obra, pela sua complexidade, exige de nós, o esforço de alcançar concreta, materialmente, a produção artística. Somos condenados a redobrar nosso empenho, nosso interesse, nossa busca.
+
+E esse esforço coloca de *per si* o problema, não
+mais individual, mas social, do direito à frequentação.
+Assim, as pessoas que, em nossa sociedade, têm consciência do papel fundamental desempenhado pela arte no seio da cultura, são forçosamente obrigadas a colocar o problema do acesso à obra.
+
+É necessário exigir os meios da frequentação.
+
+# Conclusão
+
+Em nosso livrinho, preferimos ater-nos a uma
+reflexão sobre o objeto produzido, acabado. Todas as
+vezes que usamos a palavra arte, podíamos tê-la substituído sem dificuldades pela expressão “obra de arte” ou
+“objeto artístico”, isto é, nunca a tomamos no sentido
+teórico e abstrato, Arte com A maiúsculo. Daí nossa
+incapacidade para defini-la numa fórmula clara e lógica.
+Isso significa renunciar a uma especulação filosófica sobre o problema, à segurança dos esquemas próprios ao pensamento teórico. Justificamo-nos não por considerar esse último tipo de abordagem supérfluo ou menos interessante, mas pelo fato de que tratar do objeto artístico não é a mesma coisa que discorrer sobre a Arte.
+Se quiséssemos escolher este último enfoque, nossa
+dissertação dever-se-ia chamar, mais adequadamente,
+“O que é a estética”.
+
+Assim, entre muitas outras coisas, não tocamos
+num conceito-chave das estéticas, que é a noção de
+belo, por meio da qual, muitas vezes, a arte foi definida.
+Também deixamos de lado as sedutoras classificações
+das “belas-artes”, e tantos outros esquemas. Preferimos simplesmente constatar a complexidade do objeto artístico – e respeitá-la.
+
+Negligenciamos também um outro aspecto, que
+poderia ser tratado de modo muito concreto: o do “produtor” dos objetos artísticos, sua evolução em nossa cultura, suas relações com a sociedade. Mas isso significaria escrever outras tantas páginas, vale dizer, outro
+livro, um “O que é o artista”.
+
+Abandonamos uma perspectiva histórica, tanto
+no que concerne à noção de arte (o que significaria fazer uma história da estética) quanto à própria evolução dos objetos artísticos (o que significaria fazer uma história da arte). Também não nos preocupamos com uma história do gosto, ou com uma história da crítica.
+
+Nossa abordagem visou sempre à relação espectador-obra. Apesar das lacunas e defeitos inevitáveis
+num texto sucinto e geral como este, se conseguimos
+alertar o leitor para alguns problemas, se ele descobriu
+uma ou outra coisa nova, se alguma interrogação sobre
+o objeto artístico surgiu em seu espírito, então acreditamos que nosso tempo não foi perdido, nem o dele.
+
+# Sobre o autor
+
+Jorge Coli nasceu em 29/11/1947 em Amparo, São Paulo.
+
+É professor do programa de pós-graduação de
+História da Arte e da Cultura do departamento de História da Unicamp.
+
